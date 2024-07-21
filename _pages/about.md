@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year MEng student from CCDS, Nanyang Technological University. My research interest includes computer vision, computer graphics and embodied AI.
+I'm a first year MEng student from [College of Computing and Data Science]([https://cs.pku.edu.cn/](https://www.ntu.edu.sg/computing)) (CCDS), Nanyang Technological University. My research interest includes computer vision, computer graphics and embodied AI.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
-
+I am very fortunate to be advised by [Prof. Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/) of [MReaL](https://mreallab.github.io/) lab from CCDS, Nanyang Technological University.
 
