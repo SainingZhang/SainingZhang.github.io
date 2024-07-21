@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Saining Zhang"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : ""
   location         : #"Earth"
   employer         : "Nanyang Technological University"
   uri              : # URL
