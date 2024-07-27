@@ -261,7 +261,7 @@
       <div class="column is-full-width">
         <h2 class="title is-3" style="margin-top: -20px">Motivation & Methods</h2>
         <br><br>
-        <img src="./resources/images/pe.png" class="center">
+        <img src="./resources/images/pe.jpg" class="center">
         <div class="content has-text-justified">
           <p style="margin-top: 30px">
             <b>Paradigm Comparison of Gaussian Rasterization Process.</b> All Gaussian Splatting methods share this framework for training and rendering, but different models
@@ -274,11 +274,7 @@
         <img src="./resources/images/drone-main.png" class="center">
         <div class="content has-text-justified">
           <p style="margin-top: 30px">
-            <b>Scale ambiguity & 2D Scale-adaptive Filter.</b> The heuristic 2D dilation process in vanilla 3DGS code operates on the pixel space and enlarges the projected 2D Gaus-
-            sian by a fixed amount (around 1.64 pixel). However, a fixed 2D dilation (1.64 pixel) can result in scale ambiguities when representing the same scene at different rendering
-            settings, as shown by the green expansion area. <b>(a)</b> When the Gaussian scale is held constant and the resolution changes, the dilation scale (green) changes inconsistently.
-            <b>(b)</b> When the Gaussian scale changes and the resolution remains constant, the dilation scale (green) does not change with the Gaussian. Our 2D scale-adaptive filter ensures
-            that the Gaussian scale remains consistent across different rendering settings, as shown by the red expansion area. This keeps the scale consistent with the training setup.
+            <b>Overview of Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty.</b> We first adopt an ensemble-based rendering uncertainty to quantify the learning outcomes of 3D Gaussians on ground images. Next, the ground uncertainty is projected to the air to build the cross-view uncertainty. Subsequently, we introduce the cross-view uncertainty to the training of 3D Gaussians as weight for each pixel of aerial images in the loss function, together with the original rendering loss of 3D-GS for ground images.
           </p>
         </div>
         <img src="./resources/model_images/SI.png" class="center" width="50%">
