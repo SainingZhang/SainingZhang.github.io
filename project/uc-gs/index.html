@@ -247,17 +247,16 @@
         <img src="./resources/images/pe.jpg" class="center">
         <div class="content has-text-justified">
           <p style="margin-top: 30px">
-            <b>Paradigm Comparison of Gaussian Rasterization Process.</b> All Gaussian Splatting methods share this framework for training and rendering, but different models
-            use different strategies to process Gaussian primitives. Both 3DGS and Mip-Splatting suffer from scale inconsistency and need to modify the training procedure. 
-            Our approach is training-free and only operates on the testing flow. We use <b>(d)</b> in pixel space to maintain the scale consistency of the Gaussian primitives, and
-            further enhance the anti-aliasing capability of 3DGS by applying <b>(e)</b> and <b>(f)</b> to the α-blending process. Note that <b>(e)</b> and <b>(f)</b> only make sense with <b>(d)</b> activated.
+            <b>Results for training with ground or aerial and ground images on various models. </b> (G), (A+G) are training with ground or aerial and ground images.
+            Incorporating aerial images helps to mitigate the decline in metrics of the road view synthesis after the view shifting and rotation compared with merely using ground data. However, aerial images do not enhance the result on the held-out test of road scene synthesis.
           </p>
         </div>
         <br><br>
         <img src="./resources/images/drone-main.png" class="center">
         <div class="content has-text-justified">
           <p style="margin-top: 30px">
-            <b>Overview of Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty.</b> We first adopt an ensemble-based rendering uncertainty to quantify the learning outcomes of 3D Gaussians on ground images. Next, the ground uncertainty is projected to the air to build the cross-view uncertainty. Subsequently, we introduce the cross-view uncertainty to the training of 3D Gaussians as weight for each pixel of aerial images in the loss function, together with the original rendering loss of 3D-GS for ground images.
+            <b>Overview of Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty.</b> We first adopt an ensemble-based rendering uncertainty to quantify the learning outcomes of 3D Gaussians on ground images. Next, the ground uncertainty is projected to the air to build the cross-view uncertainty. 
+            Subsequently, we introduce the cross-view uncertainty to the training of 3D Gaussians as weight for each pixel of aerial images in the loss function, together with the original rendering loss of 3D-GS for ground images.
           </p>
         </div>
         <img src="./resources/model_images/SI.png" class="center" width="50%">
