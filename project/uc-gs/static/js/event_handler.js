@@ -80,10 +80,10 @@ document.addEventListener('DOMContentLoaded', domReady);
             }
         }
         function objectSceneEvent(idx) {
-              let dics = document.querySelectorAll('.b-dics')[0]
+            let dics = document.querySelectorAll('.b-dics')[0]
             let sections = dics.getElementsByClassName('b-dics__section')
             let imagesLength = 5;
-            if(idx>=3) imagesLength = 4;
+            //if(idx>=3) imagesLength = 4;
             // console.log(sections);
             for (let i = 0; i < imagesLength; i++) {
                 // console.log(sections[i]);
@@ -147,38 +147,38 @@ document.addEventListener('DOMContentLoaded', domReady);
                         image.src = 'resources/360_images/treehill_64';
                         break;
                 }
-                if(idx<3){
+                if(idx<=5){
                     switch (i) {
                         case 0:
-                            image.src = image.src + '_raw.png';
+                            image.src = image.src + '5.png';
                             break;
                         case 1:
-                            image.src = image.src + '_mip.png';
+                            image.src = image.src + '4.png';
                             break;
                         case 2:
-                            image.src = image.src + '_sags_int.png';
+                            image.src = image.src + '3.png';
                             break;
                         case 3:
-                            image.src = image.src + '_sags_sup.png';
+                            image.src = image.src + '2.png';
                             break;
                         case 4:
-                            image.src = image.src + '_gt.png';
+                            image.src = image.src + '1.png';
                             break;
     
                     }
                 }else{
                     switch (i) {
                         case 0:
-                            image.src = image.src + '_raw.png';
+                            image.src = image.src + '5.png';
                             break;
                         case 1:
-                            image.src = image.src + '_mip.png';
+                            image.src = image.src + '4.png';
                             break;
                         case 2:
-                            image.src = image.src + '_fil.png';
+                            image.src = image.src + '3.png';
                             break;
                         case 3:
-                            image.src = image.src + '_gt.png';
+                            image.src = image.src + '2.png';
                             break;
                     }
                 }
