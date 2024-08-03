@@ -143,6 +143,7 @@ document.addEventListener('DOMContentLoaded', domReady);
                         image.src = 'resources/360_images/treehill_64';
                         break;
                 }
+                if(idx<=5){
                     switch (i) {
                         case 0:
                             image.src = image.src + '5.png';
@@ -161,6 +162,22 @@ document.addEventListener('DOMContentLoaded', domReady);
                             break;
     
                     }
+                }else{
+                    switch (i) {
+                        case 0:
+                            image.src = image.src + '_raw.png';
+                            break;
+                        case 1:
+                            image.src = image.src + '_mip.png';
+                            break;
+                        case 2:
+                            image.src = image.src + '_fil.png';
+                            break;
+                        case 3:
+                            image.src = image.src + '_gt.png';
+                            break;
+                    }
+                }
             }
 
             let scene_list = document.getElementById("object-scale-recon").children;
