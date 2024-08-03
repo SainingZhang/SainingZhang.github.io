@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', domReady);
             let dics = document.querySelectorAll('.b-dics')[0]
             let sections = dics.getElementsByClassName('b-dics__section')
             let imagesLength = 5;
-            if(idx>=3) imagesLength = 4;
+            if(idx>=5) imagesLength = 4;
             // console.log(sections);
             for (let i = 0; i < imagesLength; i++) {
                 // console.log(sections[i]);
@@ -129,10 +129,10 @@ document.addEventListener('DOMContentLoaded', domReady);
                 let image = sections[i].getElementsByClassName('b-dics__image-container')[0].getElementsByClassName('b-dics__image')[0]
                 switch (idx) {
                     case 0:
-                        image.src = 'resources/360_images/bicycle_48';
+                        image.src = resources/results/NY15';
                         break;
                     case 1:
-                        image.src = 'resources/360_images/room_25';
+                        image.src = 'resources/results/NY16';
                         break;
                     case 2:
                         image.src = 'resources/360_images/kitchen_59';
@@ -147,22 +147,22 @@ document.addEventListener('DOMContentLoaded', domReady);
                         image.src = 'resources/360_images/treehill_64';
                         break;
                 }
-                if(idx<3){
+                if(idx<5){
                     switch (i) {
                         case 0:
-                            image.src = image.src + '_raw.png';
+                            image.src = image.src + '5.png';
                             break;
                         case 1:
-                            image.src = image.src + '_mip.png';
+                            image.src = image.src + '5.png';
                             break;
                         case 2:
-                            image.src = image.src + '_sags_int.png';
+                            image.src = image.src + '5.png';
                             break;
                         case 3:
-                            image.src = image.src + '_sags_sup.png';
+                            image.src = image.src + '5.png';
                             break;
                         case 4:
-                            image.src = image.src + '_gt.png';
+                            image.src = image.src + '5.png';
                             break;
     
                     }
