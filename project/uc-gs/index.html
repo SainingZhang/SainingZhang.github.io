@@ -284,32 +284,20 @@
       <div class="column is-full-width">
         <h2 class="title is-3 has-text-centered" style="margin-top: -30px">Results</h2>
         <br>
-         <p>We compare our method with Mip-Splatting and 3DGS in the zoom-out (first row) and zoom-in (second row) cases, respectively. Our method eliminates the dilation & erosion artefacts of 3DGS 
-        under different rendering settings, while improving the jaggedness effect in the zoom-out case. Our method obtains results comparable with and beyond (zoom-out case) Mip-Splatting.</p>
+         <p>A* is HD aerial images. (G), (A+G) are training with ground or aerial and ground images.</p>
         <br>
         <h3 class="title is-4 has-text-centered">Comparison on NYC Dataset</h3>
-
-        <div class="row_two_columns">
-          <div class="content has-text-lefted">
-            <video class="video" width="100%" id="xyalias1" loop playsinline autoplay muted src="resources/360_zoomout.mp4" onplay="resizeAndPlay3(this)" ></video>
-            <canvas height=0 class="videoMerge" id="xyalias1Merge3"></canvas>
-          </div>
-          <div class="content has-text-righted">
-            <video class="video" width="100%" id="xyalias11" loop playsinline autoplay muted src="resources/360_zoomin.mp4" onplay="resizeAndPlay3(this)" ></video>
-            <canvas height=0 class="videoMerge" id="xyalias11Merge3"></canvas>
-          </div>
-        </div>
         
         <div class="container">
           <ul class="nav nav-tabs nav-fill nav-justified" id="object-scale-recon">
               <li class="nav-item">
-                <a class="nav-link active" onclick="objectSceneEvent(0)">bicycle(1/8x)</a>
+                <a class="nav-link active" onclick="objectSceneEvent(0)">1.5m</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" onclick="objectSceneEvent(1)">room(1/8x)</a>
+                <a class="nav-link" onclick="objectSceneEvent(1)">1.5+1m</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" onclick="objectSceneEvent(2)">kitchen(1/8x)</a>
+                <a class="nav-link" onclick="objectSceneEvent(2)">1.5+1m5°d</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" onclick="objectSceneEvent(3)">garden(8x)</a>
