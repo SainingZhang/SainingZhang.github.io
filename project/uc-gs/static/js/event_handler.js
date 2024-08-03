@@ -138,13 +138,13 @@ document.addEventListener('DOMContentLoaded', domReady);
                         image.src = 'resources/results/NY165';
                         break;
                     case 3:
-                        image.src = 'resources/results/NY15';
+                        image.src = 'resources/results/NY18';
                         break;
                     case 4:
-                        image.src = 'resources/results/NY15';
+                        image.src = 'resources/results/NY19';
                         break;
                     case 5:
-                        image.src = 'resources/results/NY15';
+                        image.src = 'resources/results/NY195';
                         break;
                 }
                 if(idx<=5){
@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', domReady);
             let dics = document.querySelectorAll('.b-dics')[1]
             let sections = dics.getElementsByClassName('b-dics__section')
             let imagesLength = 5;
-            if(idx>=3) imagesLength = 4;
+            #if(idx>=3) imagesLength = 4;
             // console.log(sections);
             for (let i = 0; i < imagesLength; i++) {
                 // console.log(sections[i]);
@@ -246,56 +246,56 @@ document.addEventListener('DOMContentLoaded', domReady);
                 let image = sections[i].getElementsByClassName('b-dics__image-container')[0].getElementsByClassName('b-dics__image')[0]
                 switch (idx) {
                     case 0:
-                        image.src = 'resources/blender_images/chair';
+                        image.src = 'resources/results/SF15';
                         break;
                     case 1:
-                        image.src = 'resources/blender_images/ficus';
+                        image.src = 'resources/results/SF16';
                         break;
                     case 2:
-                        image.src = 'resources/blender_images/ship';
+                        image.src = 'resources/results/SF165';
                         break;
                     case 3:
-                        image.src = 'resources/blender_images/drum';
-                        break; 
+                        image.src = 'resources/results/SF18';
+                        break;
                     case 4:
-                        image.src = 'resources/blender_images/hotdog';
+                        image.src = 'resources/results/SF19';
                         break;
                     case 5:
-                        image.src = 'resources/blender_images/mic';
-                        break; 
+                        image.src = 'resources/results/SF195';
+                        break;
                 }
-                if(idx<3){
+                if(idx<=5){
                     switch (i) {
                         case 0:
-                            image.src = image.src + '_raw.png';
+                            image.src = image.src + '5.png';
                             break;
                         case 1:
-                            image.src = image.src + '_mip.png';
+                            image.src = image.src + '4.png';
                             break;
                         case 2:
-                            image.src = image.src + '_int.png';
+                            image.src = image.src + '3.png';
                             break;
                         case 3:
-                            image.src = image.src + '_sup.png';
+                            image.src = image.src + '2.png';
                             break;
                         case 4:
-                            image.src = image.src + '_gt.png';
+                            image.src = image.src + '1.png';
                             break;
     
                     }
                 }else{
                     switch (i) {
                         case 0:
-                            image.src = image.src + '_raw.png';
+                            image.src = image.src + '5.png';
                             break;
                         case 1:
-                            image.src = image.src + '_mip.png';
+                            image.src = image.src + '4.png';
                             break;
                         case 2:
-                            image.src = image.src + '_fil.png';
+                            image.src = image.src + '3.png';
                             break;
                         case 3:
-                            image.src = image.src + '_gt.png';
+                            image.src = image.src + '2.png';
                             break;
                     }
                 }
