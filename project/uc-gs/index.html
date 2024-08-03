@@ -319,51 +319,43 @@
         </div>
 
         <br><br>
-        <h3 class="title is-4 has-text-centered">Comparison on Blender Dataset</h3>
+        <h3 class="title is-4 has-text-centered">Comparison on SF Dataset</h3>
         <div class="content has-text-justified">
-          <p>
-            We show both zoom-out and zoom-in cases in different scenarios. We highlight the contrasting areas. Our method obtains robust anti-aliasing 
-            performance improvements over 3DGS, while significantly outperforming Mip-Splatting in the zoom-out case.
-          </p>
         </div>
 
-        <div class="content has-text-centered">
-          <video class="video" width="100%" id="xyalias12" loop playsinline autoplay muted src="resources/blender.mp4"></video>
-          <canvas height=0 class="videoMerge" id="xyalias12Merge"></canvas>
-        </div>
 
         <div class="container">
           <ul class="nav nav-tabs nav-fill nav-justified" id="ablation-3d-filter">
               <li class="nav-item">
-                <a class="nav-link active" onclick="ablation3DEvent(0)">chair(1/8x)</a>
+                <a class="nav-link active" onclick="ablation3DEvent(0)">1.5m</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" onclick="ablation3DEvent(1)">ficus(1/8x)</a>
+                <a class="nav-link" onclick="ablation3DEvent(1)">1.5+1m</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" onclick="ablation3DEvent(2)">ship(1/8x)</a>
+                <a class="nav-link" onclick="ablation3DEvent(2)">1.5+1m5°d</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" onclick="ablation3DEvent(3)">drum(8x)</a>
+                <a class="nav-link" onclick="ablation3DEvent(3)">1.8m</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" onclick="ablation3DEvent(4)">hotdog(8x)</a>
+                <a class="nav-link" onclick="ablation3DEvent(4)">1.8+1m</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" onclick="ablation3DEvent(5)">mic(8x)</a>
+                <a class="nav-link" onclick="ablation3DEvent(5)">1.8+1m5°d</a>
               </li>
           </ul>
-          <div class="b-dics" style="width: 1000px; font-weight: 600;">
-            <img src="resources/blender_images/chair_raw.png" alt="3DGS">
-            <img src="resources/blender_images/chair_mip.png" alt="Mip-Splatting">
-            <img src="resources/blender_images/chair_int.png" alt="SA-GS Integration (Ours)">
-            <img src="resources/blender_images/chair_sup.png" alt="SA-GS Super Sampling (Ours)">
-            <img src="resources/blender_images/chair_gt.png" alt="GT">
+          <div class="b-dics" style="width: 1035px; font-weight: 600;margin:auto">
+              <img src="./resources/results/SF155.png" alt="Scaffold-GS">
+              <img src="./resources/results/SF154.png" alt="Scaffold-GS(A+G)">
+              <img src="./resources/results/SF153.png" alt="Scaffold-GS(A*+G)">
+              <img src="./resources/results/SF152.png" alt="Ours">
+              <img src="./resources/results/SF151.png" alt="GT">
           </div>
         </div>
 
         <br><br>
-        <h3 class="title is-4 has-text-centered">Effectiveness of 2D Scale-adaptive Filter</h3>
+<!--         <h3 class="title is-4 has-text-centered">Effectiveness of 2D Scale-adaptive Filter</h3>
         <div class="content has-text-justified">
           <p>
             The 2D scale-adaptive filter maintains the consistency of the Gaussian distribution when zooming out, 
@@ -380,7 +372,7 @@
             <video class="video" id="xyalias23" loop playsinline autoplay muted src="resources/filter_ablation_zoomin.mp4" onplay="resizeAndPlay(this)" ></video>
             <canvas height=0 class="videoMerge" id="xyalias23Merge"></canvas>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
 
