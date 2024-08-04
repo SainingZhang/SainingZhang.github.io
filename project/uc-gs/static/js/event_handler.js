@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', domReady);
             let dics = document.querySelectorAll('.b-dics')[1]
             let sections = dics.getElementsByClassName('b-dics__section')
             let imagesLength = 5;
-            #if(idx>=3) imagesLength = 4;
+            //if(idx>=3) imagesLength = 4;
             // console.log(sections);
             for (let i = 0; i < imagesLength; i++) {
                 // console.log(sections[i]);
