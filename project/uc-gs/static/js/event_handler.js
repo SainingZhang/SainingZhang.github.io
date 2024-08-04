@@ -244,61 +244,61 @@ document.addEventListener('DOMContentLoaded', domReady);
                     sections[4].getElementsByClassName('b-dics__image-container')[0].getElementsByClassName('b-dics__image')[0].setAttribute('style', 'left: -828px;');
                 }
                 let image = sections[i].getElementsByClassName('b-dics__image-container')[0].getElementsByClassName('b-dics__image')[0]
-                switch (idx) {
-                    case 0:
-                        image.src = 'resources/results/SF15';
-                        break;
-                    case 1:
-                        image.src = 'resources/results/SF16';
-                        break;
-                    case 2:
-                        image.src = 'resources/results/SF165';
-                        break;
-                    case 3:
-                        image.src = 'resources/results/SF18';
-                        break;
-                    case 4:
-                        image.src = 'resources/results/SF19';
-                        break;
-                    case 5:
-                        image.src = 'resources/results/SF195';
-                        break;
-                }
-                if(idx<=5){
-                    switch (i) {
-                        case 0:
-                            image.src = image.src + '5.png';
-                            break;
-                        case 1:
-                            image.src = image.src + '4.png';
-                            break;
-                        case 2:
-                            image.src = image.src + '3.png';
-                            break;
-                        case 3:
-                            image.src = image.src + '2.png';
-                            break;
-                        case 4:
-                            image.src = image.src + '1.png';
-                            break;
+                // switch (idx) {
+                //     case 0:
+                //         image.src = 'resources/results/SF15';
+                //         break;
+                //     case 1:
+                //         image.src = 'resources/results/SF16';
+                //         break;
+                //     case 2:
+                //         image.src = 'resources/results/SF165';
+                //         break;
+                //     case 3:
+                //         image.src = 'resources/results/SF18';
+                //         break;
+                //     case 4:
+                //         image.src = 'resources/results/SF19';
+                //         break;
+                //     case 5:
+                //         image.src = 'resources/results/SF195';
+                //         break;
+                // }
+                // if(idx<=5){
+                //     switch (i) {
+                //         case 0:
+                //             image.src = image.src + '5.png';
+                //             break;
+                //         case 1:
+                //             image.src = image.src + '4.png';
+                //             break;
+                //         case 2:
+                //             image.src = image.src + '3.png';
+                //             break;
+                //         case 3:
+                //             image.src = image.src + '2.png';
+                //             break;
+                //         case 4:
+                //             image.src = image.src + '1.png';
+                //             break;
     
-                    }
-                }else{
-                    switch (i) {
-                        case 0:
-                            image.src = image.src + '5.png';
-                            break;
-                        case 1:
-                            image.src = image.src + '4.png';
-                            break;
-                        case 2:
-                            image.src = image.src + '3.png';
-                            break;
-                        case 3:
-                            image.src = image.src + '2.png';
-                            break;
-                    }
-                }
+                //     }
+                // }else{
+                //     switch (i) {
+                //         case 0:
+                //             image.src = image.src + '5.png';
+                //             break;
+                //         case 1:
+                //             image.src = image.src + '4.png';
+                //             break;
+                //         case 2:
+                //             image.src = image.src + '3.png';
+                //             break;
+                //         case 3:
+                //             image.src = image.src + '2.png';
+                //             break;
+                //     }
+                // }
             }
 
             let scene_list = document.getElementById("ablation-3d-filter").children;
