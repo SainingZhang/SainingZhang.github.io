@@ -138,13 +138,13 @@ document.addEventListener('DOMContentLoaded', domReady);
                         image.src = 'resources/results/NY165';
                         break;
                     case 3:
-                        image.src = 'resources/results/NY15';
+                        image.src = 'resources/results/NY18';
                         break;
                     case 4:
-                        image.src = 'resources/results/NY15';
+                        image.src = 'resources/results/NY19';
                         break;
                     case 5:
-                        image.src = 'resources/results/NY15';
+                        image.src = 'resources/results/NY195';
                         break;
                 }
                 if(idx<=5){
