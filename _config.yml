@@ -21,7 +21,7 @@ repository               : "SainingZhang/SainingZhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   name             : "Saining Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Nanyang Technological University"
