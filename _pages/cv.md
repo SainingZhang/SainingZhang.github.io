@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Eng. in CCDS, Nanyang Technological University, 2027 (expected)
+* M.Eng. in Computer Science and Engineering, CCDS, Nanyang Technological University, 2027 (expected)
 * B.S. in Computer Science and Technology, Beijing Institute of Technology, 2024
 
 
