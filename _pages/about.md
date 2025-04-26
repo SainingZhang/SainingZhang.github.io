@@ -15,7 +15,7 @@ You can find my CV here: [Saining Zhang's Curriculum Vitae](../assets/CV.pdf).
 
 News
 ======
-🔥 Our new technical report, [Selftok](https://selftok-team.github.io/report/), is now available. Congratulats to all team members!<br>
+🔥 Our new technical report, [Selftok](https://selftok-team.github.io/report/), is now available. Congrats to all team members!<br>
 🔥 Our new work GaussianArt will be available soon. Thank you all for your anticipation.
 
 Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBMcAAAAJ&hl=zh-CN)\]
