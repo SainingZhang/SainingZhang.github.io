@@ -13,3 +13,8 @@ I am very fortunate to be advised by [Prof. Hanwang Zhang](https://personal.ntu.
 
 You can find my CV here: [Saining Zhang's Curriculum Vitae](../assets/CV.pdf).
 
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
