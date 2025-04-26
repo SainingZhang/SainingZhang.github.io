@@ -20,8 +20,28 @@ News
 
 Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBMcAAAAJ&hl=zh-CN)\]
 ======
-{% include base_path %}
+\* represents equal contributions
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* [Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning](https://selftok-team.github.io/report/)      
+  **Selftok Team**   
+  [paper](https://selftok-team.github.io/report/Selftok.pdf)
+
+* [CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting
+](https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting)      
+  Haoran Xu *, **Saining Zhang *†**, Peishuo Li *, Baijun Ye, Xiaoxue Chen, Huan-ang Gao, Jv Zheng, Xiaowei Song, Ziqiao Peng, Run Miao, Jinrang Jia, Yifeng Shi, Guangqi Yi, Hang Zhao, Hao Tang, Hongyang Li, Kaicheng Yu, Hao Zhao †    
+  [code]([https://github.com/jiequancui/DKL](https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting))
+
+* [Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2305.13948.pdf)      
+  **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.     
+  Conference on Neural Information Processing Systems (NeurIPS), 2024.    
+  [paper](https://arxiv.org/pdf/2305.13948.pdf) [code](https://github.com/jiequancui/DKL)
+
+* [Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2305.13948.pdf)      
+  **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.     
+  Conference on Neural Information Processing Systems (NeurIPS), 2024.    
+  [paper](https://arxiv.org/pdf/2305.13948.pdf) [code](https://github.com/jiequancui/DKL)
+
+* [Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2305.13948.pdf)      
+  **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.     
+  Conference on Neural Information Processing Systems (NeurIPS), 2024.    
+  [paper](https://arxiv.org/pdf/2305.13948.pdf) [code](https://github.com/jiequancui/DKL)
