@@ -20,7 +20,7 @@ News
 
 Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBMcAAAAJ&hl=zh-CN)\]
 ======
-\* represents equal contributions
+\* denotes equal contributions, † denotes corresponding author
 
 * [Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning](https://selftok-team.github.io/report/)      
   **Selftok Team**   
