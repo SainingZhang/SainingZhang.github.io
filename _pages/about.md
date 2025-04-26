@@ -30,7 +30,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ](https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting)      
   Haoran Xu*, **Saining Zhang\*†**, Peishuo Li*, Baijun Ye, Xiaoxue Chen, Huan-ang Gao, Jv Zheng, Xiaowei Song, Ziqiao Peng, Run Miao, Jinrang Jia, Yifeng Shi, Guangqi Yi, Hang Zhao, Hao Tang, Hongyang Li, Kaicheng Yu, Hao Zhao†                    
   2025   
-  [code]([https://github.com/jiequancui/DKL](https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting))
+  [code](https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting)
 
 * [Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty](https://sainingzhang.github.io/project/uc-gs/)      
   **Saining Zhang\***, Baijun Ye*, Xiaoxue Chen, Yuantao Chen, Zongzheng Zhang, Cheng Peng, Yongliang Shi, Hao Zhao†                    
