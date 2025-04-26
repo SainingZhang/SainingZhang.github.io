@@ -28,20 +28,13 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 
 * [CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting
 ](https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting)      
-  Haoran Xu*, **Saining Zhang\*†**, Peishuo Li*, Baijun Ye, Xiaoxue Chen, Huan-ang Gao, Jv Zheng, Xiaowei Song, Ziqiao Peng, Run Miao, Jinrang Jia, Yifeng Shi, Guangqi Yi, Hang Zhao, Hao Tang, Hongyang Li, Kaicheng Yu, Hao Zhao†    
+  Haoran Xu*, **Saining Zhang\*†**, Peishuo Li*, Baijun Ye, Xiaoxue Chen, Huan-ang Gao, Jv Zheng, Xiaowei Song, Ziqiao Peng, Run Miao, Jinrang Jia, Yifeng Shi, Guangqi Yi, Hang Zhao, Hao Tang, Hongyang Li, Kaicheng Yu, Hao Zhao†
+  2025   
   [code]([https://github.com/jiequancui/DKL](https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting))
 
-* [Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2305.13948.pdf)      
-  **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.     
-  Conference on Neural Information Processing Systems (NeurIPS), 2024.    
-  [paper](https://arxiv.org/pdf/2305.13948.pdf) [code](https://github.com/jiequancui/DKL)
+* [Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty](https://sainingzhang.github.io/project/uc-gs/)      
+  **Saining Zhang\***, Baijun Ye*, Xiaoxue Chen, Yuantao Chen, Zongzheng Zhang, Cheng Peng, Yongliang Shi, Hao Zhao†
+  The British Machine Vision Conference (BMVC), 2024
+  [paper](https://arxiv.org/pdf/2408.15242) [code](https://github.com/SainingZhang/uc-gs/)
 
-* [Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2305.13948.pdf)      
-  **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.     
-  Conference on Neural Information Processing Systems (NeurIPS), 2024.    
-  [paper](https://arxiv.org/pdf/2305.13948.pdf) [code](https://github.com/jiequancui/DKL)
 
-* [Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/pdf/2305.13948.pdf)      
-  **Jiequan Cui**, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang.     
-  Conference on Neural Information Processing Systems (NeurIPS), 2024.    
-  [paper](https://arxiv.org/pdf/2305.13948.pdf) [code](https://github.com/jiequancui/DKL)
