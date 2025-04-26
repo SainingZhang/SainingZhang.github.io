@@ -38,6 +38,6 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   [paper](https://arxiv.org/pdf/2408.15242) [code](https://github.com/SainingZhang/uc-gs/)
 
 * [A Dual-Direction Attention Mixed Feature Network for Facial Expression Recognition](https://www.mdpi.com/2079-9292/12/17/3595)      
-  **Saining Zhang**, Yuhang Zhang, Ye Zhang, Yufei Wang, Zhigang Song                     
+  **Saining Zhang**, Yuhang Zhang, Ye Zhang, Yufei Wang, Zhigang Song†                     
   Electronics, 2023                          
   [paper](https://www.mdpi.com/2079-9292/12/17/3595) [code](https://github.com/SainingZhang/DDAMFN)
