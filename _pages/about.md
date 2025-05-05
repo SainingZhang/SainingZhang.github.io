@@ -42,3 +42,17 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   **Saining Zhang**, Yuhang Zhang, Ye Zhang, Yufei Wang, Zhigang Song†                     
   Electronics, 2023                          
   [paper](https://www.mdpi.com/2079-9292/12/17/3595) [code](https://github.com/SainingZhang/DDAMFN)
+
+Internships
+======
+* 2024.09 - now, Singapore Graphics, Images Intelligence Lab, Huawei, Singapore.
+* 2024.09 - 2025-05, D-Robotics, Horizon, China.
+* 2022.06 - 2022.09, Vision Computing Lab, Samsung, China.
+
+
+
+
+
+
+
+
