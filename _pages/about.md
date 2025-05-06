@@ -45,7 +45,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 
 Internships
 ======
-* 2024.09 - now, Singapore Graphics, Images Intelligence Lab, Huawei, Singapore.
+* 2024.09 - now, Singapore Graphics & Image Intelligence Lab, Huawei, Singapore.
 * 2024.09 - 2025-05, D-Robotics, Horizon, China.
 * 2022.06 - 2022.09, Vision Computing Lab, Samsung, China.
 
