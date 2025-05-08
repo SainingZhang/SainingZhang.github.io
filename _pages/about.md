@@ -28,7 +28,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 
 * [Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning](https://selftok-team.github.io/report/)      
   **Selftok Team** (Saining Zhang: Core contributor)                     
-  The upgrade version of [DDT-LLaMA](https://ddt-llama.github.io/)                             
+  The extended version of [DDT-LLaMA](https://ddt-llama.github.io/)                             
   [paper](https://selftok-team.github.io/report/Selftok.pdf)
 
 * [CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting
