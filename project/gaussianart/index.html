@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="DESCRIPTION META TAG">
+  <meta property="og:title" content="SOCIAL MEDIA TITLE TAG"/>
+  <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG"/>
+  <meta property="og:url" content="URL OF THE WEBSITE"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+
+
+  <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
+  <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>GaussianArt</title>
+  <link rel="icon" type="image/x-icon" href="static/images/art.png">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="https://kit.fontawesome.com/d383128d10.js" crossorigin="anonymous"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
+<body>
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">GaussianArt: One-Stage Modeling of Articulated
+Objects<br> with Scaled-Up Evaluation</h1>
+        </div>
+      </div>
+      <div class="column has-text-centered">
+        <h2 class="title is-3">Anonymous Authors</h1>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- Video carousel -->
+<section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="has-text-centered">
+        <h2 class="title is-3">Comparisons on ReconArticulate</h2>
+      </div>
+      <br><br>
+      <div id="results-carousel" class="carousel results-carousel">
+        <div class="item item-video2">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/46145.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/46145.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Storage_46145</h1>
+          <br><br>
+        </div>
+        <div class="item item-video3">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/Box_102379.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/Box_102379.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Box_102379</h1>
+          <br><br>
+        </div>
+        <div class="item item-video4">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/DishWasher_12085.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/DishWasher_12085.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">DishWasher_12085</h1>
+          <br><br>
+        </div>
+        <div class="item item-video5">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/Door_8867.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/Door_8867.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Door_8867</h1>
+          <br><br>
+        </div>
+        <div class="item item-video6">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/Foldingchair_100523.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/Foldingchair_100523.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Foldchair_100523</h1>
+          <br><br>
+        </div>
+        <div class="item item-video9">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/Microwave_7128.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/Microwave_7128.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Microwave_7128</h1>
+          <br><br>
+        </div>
+        <div class="item item-video10">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/Safe_101611.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/Safe_101611.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Safe_101611</h1>
+          <br><br>
+        </div>
+        <div class="item item-video11">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/StorageFurniture_40147.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/StorageFurniture_40147.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Storage_40147</h1>
+          <br><br>
+        </div>
+        <div class="item item-video12">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/StorageFurniture_40453.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/StorageFurniture_40453.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Storage_40453</h1>
+          <br><br>
+        </div>
+        <div class="item item-video13">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/StorageFurniture_41510.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/StorageFurniture_41510.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Storage_41510</h1>
+          <br><br>
+        </div>
+        <div class="item item-video16">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/StorageFurniture_44853.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/StorageFurniture_44853.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Storage_44853</h1>
+          <br><br>
+        </div>
+        <div class="item item-video17">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/StorageFurniture_45001.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/StorageFurniture_45001.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Storage_45001</h1>
+          <br><br>
+        </div>
+        <div class="item item-video19">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/StorageFurniture_45759.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/StorageFurniture_45759.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Storage_45759</h1>
+          <br><br>
+        </div>
+        <div class="item item-video20">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/StorageFurniture_47235.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/StorageFurniture_47235.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Storage_47235</h1>
+          <br><br>
+        </div>
+        <div class="item item-video21">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/StorageFurniture_47290.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/StorageFurniture_47290.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Storage_47290</h1>
+          <br><br>
+        </div>
+        <div class="item item-video22">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/Table_22367_GaussianArt.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/Table_22367.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Table_22367</h1>
+          <br><br>
+        </div>
+        <div class="item item-video23">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/Table_32052.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/Table_32052.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Table_32052</h1>
+          <br><br>
+        </div>
+        <div class="item item-video24">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/Table_32601.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/Table_32601.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Table_32601</h1>
+          <br><br>
+        </div>
+        <div class="item item-video25">
+          <div class="item has-text-centered">
+            <img src="./gif/GaussianArt/Toilet_102630.gif">
+            <h2 class="title is-4 has-text-centered">GaussianArt</h1>
+            <img src="./gif/ArtGS/Toilet_102630.gif">
+            <h2 class="title is-4 has-text-centered">ArtGS</h1>
+          </div>
+          <h1 class="title is-4 has-text-centered">Toilet_102630</h1>
+          <br><br>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End video carousel -->
+
+<section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="has-text-centered">
+        <h2 class="title is-3">Simulation in IsaacSim</h2>
+      </div>
+      <br><br>
+      <video autoplay controals loop muted>
+        <source src="./video/demo1.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>
