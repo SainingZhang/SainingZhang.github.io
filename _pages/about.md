@@ -16,12 +16,15 @@ You can find my CV here: [Saining Zhang's Curriculum Vitae](../assets/CV.pdf).
 News
 ======
 🔥 Our new technical report, [Selftok](https://selftok-team.github.io/report/), is now available. Congrats to all team members!<br>
-🔥 Our new work GaussianArt will be available soon. Thank you all for your anticipation.<br>
+🔥 The first work of the Art Group, [**GaussianArt**](https://sainingzhang.github.io/project/gaussianart/) will be available soon. Thank you to my team members.<br>
 🔥 We have founded the Art Group, dedicated to interesting research in 2D and 3D. Our current members are from NTU and Tsinghua University. We look forward to having you join us!
 
 Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBMcAAAAJ&hl=zh-CN)\]
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
+
+* [GaussianArt: One-Stage Modeling of Articulated Objects with Scaled-Up Evaluation](https://sainingzhang.github.io/project/gaussianart/)      
+  Licheng Shen\*, **Saining Zhang\*‡**, Honghan Li\*, Zongzheng Zhang, Huan-ang Gao, Miao Run, Li Yi, Hao Zhao† 
 
 * [Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning](https://selftok-team.github.io/report/)      
   **Selftok Team**   
