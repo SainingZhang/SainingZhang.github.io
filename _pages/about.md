@@ -48,7 +48,11 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 
 Awards
 ======
-* \[2024\]n
+* \[2024\] **Best Undergraduate Dissertation Award, Beijing Education Commission (top 0.9% in 130,000 students)**
+* \[2024\] **Winner Award**, NTIRE 2024 (CVPR 2024 workshop) Stereo Image Super-Resolution
+Challenge Track 1 & Track 2
+* \[2021\] **Second place**, 2021 iFLYTEK A.I. Developer Competition Facial Expression Recognition
+Challenge 
 
 Internships
 ======
