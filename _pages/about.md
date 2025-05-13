@@ -29,7 +29,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 * [Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning](https://selftok-team.github.io/report/)      
   **Selftok Team** (Saining Zhang: Core contributor)                     
   The extended version of [DDT-LLaMA](https://ddt-llama.github.io/)                             
-  [paper](https://selftok-team.github.io/report/Selftok.pdf)
+  [arxiv](https://arxiv.org/abs/2505.07538) [paper](https://selftok-team.github.io/report/Selftok.pdf)
 
 * [CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting
 ](https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting)      
@@ -39,7 +39,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 * [Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty](https://sainingzhang.github.io/project/uc-gs/)      
   **Saining Zhang\***, Baijun Ye*, Xiaoxue Chen, Yuantao Chen, Zongzheng Zhang, Cheng Peng, Yongliang Shi, Hao Zhao†                    
   The British Machine Vision Conference (BMVC), 2024                 
-  [paper](https://arxiv.org/pdf/2408.15242) [code](https://github.com/SainingZhang/uc-gs/)
+  [arxiv](https://arxiv.org/abs/2408.15242) [paper](https://arxiv.org/pdf/2408.15242) [code](https://github.com/SainingZhang/uc-gs/)
 
 * [A Dual-Direction Attention Mixed Feature Network for Facial Expression Recognition](https://www.mdpi.com/2079-9292/12/17/3595)      
   **Saining Zhang**, Yuhang Zhang, Ye Zhang, Yufei Wang, Zhigang Song†                     
