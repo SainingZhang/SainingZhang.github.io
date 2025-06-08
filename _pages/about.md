@@ -24,7 +24,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 
 * [Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding](https://zhuxing0.github.io/projects/SA-Radar/)      
-  Licheng Shen\*, **Saining Zhang\*‡**, Honghan Li\*, Zongzheng Zhang, Huan-ang Gao, Miao Run, Li Yi, Hao Zhao†     
+  Weiqing Xiao*, Hao Huang*, Chonghao Zhong*, Yujie Lin, Nan Wang, Xiaoxue Chen, Zhaoxi Chen, Saining Zhang, Shuocheng Yang, Pierre Merriaux, Lei Lei, Hao Zhao†   
    [arxiv](https://arxiv.org/abs/2506.03134) [paper](https://arxiv.org/pdf/2506.03134) [code](https://github.com/zhuxing0/SA-Radar)
   
 * [GaussianArt: One-Stage Modeling of Articulated Objects with Scaled-Up Evaluation](https://sainingzhang.github.io/project/gaussianart/)      
