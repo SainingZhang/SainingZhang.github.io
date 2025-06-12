@@ -22,14 +22,6 @@ News
 Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBMcAAAAJ&hl=zh-CN)\]
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
-
-* [Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting](https://bigcileng.github.io/bilateral-driving/)      
-  Nan Wang, Yuantao Chen, Lixing Xiao, Weiqing Xiao, Bohan Li, Zhaoxi Chen, Chongjie Ye, Shaocong Xu, **Saining Zhang**, Ziyang Yan, Pierre Merriaux, Lei Lei, Tianfan Xue, Hao Zhao†   
-   [arxiv](https://arxiv.org/abs/2506.05280) [paper](https://bigcileng.github.io/bilateral-driving/static/bilateral-driving-arxiv.pdf) [code](https://github.com/BigCiLeng/bilateral-driving)
-
-* [Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding](https://zhuxing0.github.io/projects/SA-Radar/)      
-  Weiqing Xiao\*, Hao Huang\*, Chonghao Zhong\*, Yujie Lin, Nan Wang, Xiaoxue Chen, Zhaoxi Chen, **Saining Zhang**, Shuocheng Yang, Pierre Merriaux, Lei Lei, Hao Zhao†   
-   [arxiv](https://arxiv.org/abs/2506.03134) [paper](https://arxiv.org/pdf/2506.03134) [code](https://github.com/zhuxing0/SA-Radar)
   
 * [GaussianArt: One-Stage Modeling of Articulated Objects with Scaled-Up Evaluation](https://sainingzhang.github.io/project/gaussianart/)      
   Licheng Shen\*, **Saining Zhang\*‡**, Honghan Li\*, Zongzheng Zhang, Huan-ang Gao, Miao Run, Li Yi, Hao Zhao† 
@@ -53,6 +45,14 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   **Saining Zhang**, Yuhang Zhang, Ye Zhang, Yufei Wang, Zhigang Song†                     
   Electronics, 2023                          
   [paper](https://www.mdpi.com/2079-9292/12/17/3595) [code](https://github.com/SainingZhang/DDAMFN)
+
+* [Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting](https://bigcileng.github.io/bilateral-driving/)      
+  Nan Wang, Yuantao Chen, Lixing Xiao, Weiqing Xiao, Bohan Li, Zhaoxi Chen, Chongjie Ye, Shaocong Xu, **Saining Zhang**, Ziyang Yan, Pierre Merriaux, Lei Lei, Tianfan Xue, Hao Zhao†   
+   [arxiv](https://arxiv.org/abs/2506.05280) [paper](https://bigcileng.github.io/bilateral-driving/static/bilateral-driving-arxiv.pdf) [code](https://github.com/BigCiLeng/bilateral-driving)
+
+* [Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding](https://zhuxing0.github.io/projects/SA-Radar/)      
+  Weiqing Xiao\*, Hao Huang\*, Chonghao Zhong\*, Yujie Lin, Nan Wang, Xiaoxue Chen, Zhaoxi Chen, **Saining Zhang**, Shuocheng Yang, Pierre Merriaux, Lei Lei, Hao Zhao†   
+   [arxiv](https://arxiv.org/abs/2506.03134) [paper](https://arxiv.org/pdf/2506.03134) [code](https://github.com/zhuxing0/SA-Radar)
 
 Awards
 ======
