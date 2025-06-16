@@ -15,7 +15,7 @@ You can find my CV here: [Saining Zhang's Curriculum Vitae](../assets/CV.pdf).
 
 News
 ======
-🔥 One paper got accepted to IROS 2025!<br>
+🔥 One paper got accepted to **IROS 2025**!<br>
 🔥 The first work of the Art Group, [**GaussianArt**](https://sainingzhang.github.io/project/gaussianart/) will soon be available. Thanks to all team members for their hard work!<br>
 🔥 Our new technical report, [**Selftok**](https://selftok-team.github.io/report/), is now available. Congrats to all team members!<br>
 🔥 We have founded the Art Group, dedicated to interesting research in 2D and 3D. Our current members are from NTU and Tsinghua University. We look forward to having you join us!
