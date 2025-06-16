@@ -33,7 +33,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 
 * [CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting
 ](https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting)      
-  Haoran Xu\*, **Saining Zhang\*‡**, Peishuo Li\*, Baijun Ye, Xiaoxue Chen, Huan-ang Gao, Jv Zheng, Xiaowei Song, Ziqiao Peng, Run Miao, Jinrang Jia, Yifeng Shi, Guangqi Yi, Hang Zhao, Hao Tang, Hongyang Li, Kaicheng Yu, Hao Zhao†
+  Haoran Xu\*, **Saining Zhang\*‡**, Peishuo Li\*, Baijun Ye, Xiaoxue Chen, Huan-ang Gao, Jv Zheng, Xiaowei Song, Ziqiao Peng, Run Miao, Jinrang Jia, Yifeng Shi, Guangqi Yi, Hang Zhao, Hao Tang, Hongyang Li, Kaicheng Yu, Hao Zhao†  
   IROS, 2025                     
   [code](https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting)
 
