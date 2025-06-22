@@ -97,9 +97,9 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/ddamfn.png" alt="A Dual-Direction Attention Mixed Feature Network for Facial Expression Recognition" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="../images/ddamfn.jpg" alt="A Dual-Direction Attention Mixed Feature Network for Facial Expression Recognition" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://selftok-team.github.io/report/" style="text-decoration: none;">A Dual-Direction Attention Mixed Feature Network for Facial Expression Recognition</a></h3>
+    <h3 style="margin: 0;"><a href="https://github.com/SainingZhang/DDAMFN" style="text-decoration: none;">A Dual-Direction Attention Mixed Feature Network for Facial Expression Recognition</a></h3>
     <p style="margin: 5px 0;">
           <strong>Saining Zhang</strong>, Yuhang Zhang, Ye Zhang, Yufei Wang, Zhigang Song†
           <br>
