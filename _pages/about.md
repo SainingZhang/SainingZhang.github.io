@@ -19,7 +19,7 @@ News
 🔥 One paper got accepted to [IROS 2025](https://www.iros25.org/).<br>
 🔥 The first work of the Art Group, [GaussianArt](https://sainingzhang.github.io/project/gaussianart/) will soon be available. Thanks to all team members for their hard work!<br>
 🔥 Our new technical report, [Selftok](https://selftok-team.github.io/report/), is now available. Congrats to all team members!<br>
-🔥 We have founded the Art Group, dedicated to interesting research in 2D and 3D. Our current members are from NTU and Tsinghua University. We look forward to having you join us!
+🔥 [03.2025] We have founded the Art Group, dedicated to interesting research in 2D and 3D. Our current members are from NTU and Tsinghua University. We look forward to having you join us!
 
 Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBMcAAAAJ&hl=zh-CN)\]
 ======
