@@ -77,23 +77,42 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   </div>
 </div>
 
-* [Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty](https://sainingzhang.github.io/project/uc-gs/)      
-  **Saining Zhang\***, Baijun Ye*, Xiaoxue Chen, Yuantao Chen, Zongzheng Zhang, Cheng Peng, Yongliang Shi, Hao Zhao†                    
-  BMVC, 2024                 
-  [arxiv](https://arxiv.org/abs/2408.15242) [paper](https://arxiv.org/pdf/2408.15242) [code](https://github.com/SainingZhang/uc-gs/)
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/ucgs.png" alt="Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://selftok-team.github.io/report/" style="text-decoration: none;">Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty</a></h3>
+    <p style="margin: 5px 0;">
+          <strong>Saining Zhang*</strong>, Baijun Ye*, Xiaoxue Chen, Yuantao Chen, Zongzheng Zhang, Cheng Peng, Yongliang Shi, Hao Zhao†
+          <br>
+          BMVC, 2024 <br> 
+          <a href="https://sainingzhang.github.io/project/uc-gs/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/abs/2408.15242" style="text-decoration: none;">[Paper]</a> 
+          <a href="https://github.com/SainingZhang/uc-gs/" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
 
-* [A Dual-Direction Attention Mixed Feature Network for Facial Expression Recognition](https://www.mdpi.com/2079-9292/12/17/3595)      
-  **Saining Zhang**, Yuhang Zhang, Ye Zhang, Yufei Wang, Zhigang Song†                     
-  Electronics, 2023                          
-  [paper](https://www.mdpi.com/2079-9292/12/17/3595) [code](https://github.com/SainingZhang/DDAMFN)
-
-* [Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting](https://bigcileng.github.io/bilateral-driving/)      
-  Nan Wang, Yuantao Chen, Lixing Xiao, Weiqing Xiao, Bohan Li, Zhaoxi Chen, Chongjie Ye, Shaocong Xu, **Saining Zhang**, Ziyang Yan, Pierre Merriaux, Lei Lei, Tianfan Xue, Hao Zhao†   
-   [arxiv](https://arxiv.org/abs/2506.05280) [paper](https://bigcileng.github.io/bilateral-driving/static/bilateral-driving-arxiv.pdf) [code](https://github.com/BigCiLeng/bilateral-driving)
-
-* [Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding](https://zhuxing0.github.io/projects/SA-Radar/)      
-  Weiqing Xiao\*, Hao Huang\*, Chonghao Zhong\*, Yujie Lin, Nan Wang, Xiaoxue Chen, Zhaoxi Chen, **Saining Zhang**, Shuocheng Yang, Pierre Merriaux, Lei Lei, Hao Zhao†   
-   [arxiv](https://arxiv.org/abs/2506.03134) [paper](https://arxiv.org/pdf/2506.03134) [code](https://github.com/zhuxing0/SA-Radar)
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/ddamfn.png" alt="A Dual-Direction Attention Mixed Feature Network for Facial Expression Recognition" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://selftok-team.github.io/report/" style="text-decoration: none;">A Dual-Direction Attention Mixed Feature Network for Facial Expression Recognition</a></h3>
+    <p style="margin: 5px 0;">
+          <strong>Saining Zhang</strong>, Yuhang Zhang, Ye Zhang, Yufei Wang, Zhigang Song†
+          <br>
+          Electronics, 2023 <br>
+          <a href="https://www.mdpi.com/2079-9292/12/17/3595" style="text-decoration: none;">[Paper]</a> 
+          <a href="https://github.com/SainingZhang/DDAMFN" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
 
 Awards
 ======
