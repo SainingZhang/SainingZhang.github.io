@@ -44,14 +44,14 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/selftok.png" alt="Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://sainingzhang.github.io/project/gaussianart/" style="text-decoration: none;">Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning</a></h3>
+    <h3 style="margin: 0;"><a href="https://selftok-team.github.io/report/" style="text-decoration: none;">Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning</a></h3>
     <p style="margin: 5px 0;">
           <strong>Selftok Team</strong> (Saining Zhang: Core contributor)
           <br>
           Technical report, an extended version of [DDT-LLaMA](https://ddt-llama.github.io/) <br> 
-          <a href="https://arxiv.org/abs/2505.07538" style="text-decoration: none;">[arxiv]</a>
-          <a href="https://arxiv.org/pdf/2505.07538" style="text-decoration: none;">[paper]</a> 
-          <a href="https://github.com/selftok-team/SelftokTokenizer" style="text-decoration: none;">[code]</a>
+          <a href="https://selftok-team.github.io/report/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/abs/2505.07538" style="text-decoration: none;">[Paper]</a> 
+          <a href="https://github.com/selftok-team/SelftokTokenizer" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
