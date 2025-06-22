@@ -61,13 +61,14 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/gaussianart.png" alt="CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="../images/cruise.png" alt="CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting" style="text-decoration: none;">CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting</a></h3>
     <p style="margin: 5px 0;">
-          Licheng Shen*, <strong>Saining Zhang*‡</strong>, Honghan Li*, Zongzheng Zhang, Huan-ang Gao, Miao Run, Li Yi, Hao Zhao†
+          Haoran Xu\*, <strong>Saining Zhang\*‡<strong>, Peishuo Li\*, Baijun Ye, Xiaoxue Chen, Huan-ang Gao, Jv Zheng, Xiaowei Song, Ziqiao Peng, Run Miao, Jinrang Jia, Yifeng Shi, Guangqi Yi, Hang Zhao, Hao Tang, Hongyang Li, Kaicheng Yu, Hao Zhao† 
           <br>
-          
+          IROS, 2025<br>
+          <a href="https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
@@ -75,17 +76,6 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     </div>
   </div>
 </div>
-
-* [Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning](https://selftok-team.github.io/report/)      
-  **Selftok Team** (Saining Zhang: Core contributor)                     
-  The extended version of [DDT-LLaMA](https://ddt-llama.github.io/)                             
-  [arxiv](https://arxiv.org/abs/2505.07538) [paper](https://arxiv.org/pdf/2505.07538) [code](https://github.com/selftok-team/SelftokTokenizer)
-
-* [CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting
-](https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting)      
-  Haoran Xu\*, **Saining Zhang\*‡**, Peishuo Li\*, Baijun Ye, Xiaoxue Chen, Huan-ang Gao, Jv Zheng, Xiaowei Song, Ziqiao Peng, Run Miao, Jinrang Jia, Yifeng Shi, Guangqi Yi, Hang Zhao, Hao Tang, Hongyang Li, Kaicheng Yu, Hao Zhao†  
-  IROS, 2025                     
-  [code](https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting)
 
 * [Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty](https://sainingzhang.github.io/project/uc-gs/)      
   **Saining Zhang\***, Baijun Ye*, Xiaoxue Chen, Yuantao Chen, Zongzheng Zhang, Cheng Peng, Yongliang Shi, Hao Zhao†                    
