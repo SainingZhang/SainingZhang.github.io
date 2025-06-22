@@ -31,7 +31,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://sainingzhang.github.io/project/gaussianart/" style="text-decoration: none;">GaussianArt: One-Stage Modeling of Articulated Objects with Scaled-Up Evaluation</a></h3>
     <p style="margin: 5px 0;">
-          Licheng Shen*, <strong>Saining Zhang*‡</strong>,
+          Licheng Shen*, <strong>Saining Zhang*‡</strong>, Honghan Li*, Zongzheng Zhang, Huan-ang Gao, Miao Run, Li Yi, Hao Zhao†
           <br>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
@@ -40,8 +40,6 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     </div>
   </div>
 </div>
-* [GaussianArt: One-Stage Modeling of Articulated Objects with Scaled-Up Evaluation](https://sainingzhang.github.io/project/gaussianart/)      
-  Licheng Shen\*, **Saining Zhang\*‡**, Honghan Li\*, Zongzheng Zhang, Huan-ang Gao, Miao Run, Li Yi, Hao Zhao† 
 
 * [Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning](https://selftok-team.github.io/report/)      
   **Selftok Team** (Saining Zhang: Core contributor)                     
