@@ -48,7 +48,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     <p style="margin: 5px 0;">
           <strong>Selftok Team</strong> (Saining Zhang: Core contributor)
           <br>
-          Technical report, an extended version of [DDT-LLaMA](https://ddt-llama.github.io/) <br> 
+          Technical report, an extended version of <a href="https://ddt-llama.github.io/">DDT-LLaMA</a><br> 
           <a href="https://selftok-team.github.io/report/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/abs/2505.07538" style="text-decoration: none;">[Paper]</a> 
           <a href="https://github.com/selftok-team/SelftokTokenizer" style="text-decoration: none;">[Code]</a>
