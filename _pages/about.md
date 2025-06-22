@@ -26,7 +26,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="images/gaussianart.png" alt="GaussianArt: One-Stage Modeling of Articulated Objects with Scaled-Up Evaluation" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="../images/gaussianart.png" alt="GaussianArt: One-Stage Modeling of Articulated Objects with Scaled-Up Evaluation" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://sainingzhang.github.io/project/gaussianart/" style="text-decoration: none;">GaussianArt: One-Stage Modeling of Articulated Objects with Scaled-Up Evaluation</a></h3>
     <p style="margin: 5px 0;">
