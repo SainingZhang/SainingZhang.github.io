@@ -80,7 +80,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/ucgs.png" alt="Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://selftok-team.github.io/report/" style="text-decoration: none;">Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty</a></h3>
+    <h3 style="margin: 0;"><a href="https://sainingzhang.github.io/project/uc-gs/" style="text-decoration: none;">Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty</a></h3>
     <p style="margin: 5px 0;">
           <strong>Saining Zhang*</strong>, Baijun Ye*, Xiaoxue Chen, Yuantao Chen, Zongzheng Zhang, Cheng Peng, Yongliang Shi, Hao Zhao†
           <br>
