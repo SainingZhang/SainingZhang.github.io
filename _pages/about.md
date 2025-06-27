@@ -131,7 +131,7 @@ Internships
 
 Service
 ======
-I served / was delegated as Reviewer for NeurIPS, ACMMM, ICRA, IROS and BMVC.
+I served / was delegated as Reviewer for NeurIPS 2025, IROS 2025, ACMMM 2024 and BMVC 2024.
 
 
 
