@@ -69,6 +69,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           Haoran Xu*, <strong>Saining Zhang*‡</strong>, Peishuo Li*, Baijun Ye, Xiaoxue Chen, Huan-ang Gao, Jv Zheng, Xiaowei Song, Ziqiao Peng, Run Miao, Jinrang Jia, Yifeng Shi, Guangqi Yi, Hang Zhao, Hao Tang, Hongyang Li, Kaicheng Yu, Hao Zhao† 
           <br>
           IROS, 2025<br>
+      <p style="color: red;">Oral Presentation</p><br>
           <a href="https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
