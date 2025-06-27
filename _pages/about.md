@@ -85,7 +85,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     <p style="margin: 5px 0;">
           <strong>Saining Zhang*</strong>, Baijun Ye*, Xiaoxue Chen, Yuantao Chen, Zongzheng Zhang, Cheng Peng, Yongliang Shi, Hao Zhao†
           <br>
-          BMVC, 2024 <br> 
+          <b><i>BMVC 2024</i></b><br>
           <a href="https://sainingzhang.github.io/project/uc-gs/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/abs/2408.15242" style="text-decoration: none;">[Paper]</a> 
           <a href="https://github.com/SainingZhang/uc-gs/" style="text-decoration: none;">[Code]</a>
@@ -104,7 +104,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     <p style="margin: 5px 0;">
           <strong>Saining Zhang</strong>, Yuhang Zhang, Ye Zhang, Yufei Wang, Zhigang Song†
           <br>
-          Electronics, 2023 <br>
+          <b><i>Electronics, 2023</i></b><br>
           <a href="https://www.mdpi.com/2079-9292/12/17/3595" style="text-decoration: none;">[Paper]</a> 
           <a href="https://github.com/SainingZhang/DDAMFN" style="text-decoration: none;">[Code]</a>
     </p>
