@@ -62,6 +62,61 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/bilateral.png" alt="Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://bigcileng.github.io/bilateral-driving/" style="text-decoration: none;">Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting</a></h3>
+    <p style="margin: 5px 0;">
+          Nan Wang, Yuantao Chen, Lixing Xiao, Weiqing Xiao, Bohan Li, Zhaoxi Chen, Chongjie Ye, Shaocong Xu, <strong>Saining Zhang</strong>, Ziyang Yan, Pierre Merriaux, Lei Lei, Tianfan Xue, Hao Zhao†
+          <br> 
+          <a href="https://bigcileng.github.io/bilateral-driving/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/abs/2506.05280" style="text-decoration: none;">[Paper]</a> 
+          <a href="https://github.com/BigCiLeng/bilateral-driving" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/saradar.png" alt="Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://zhuxing0.github.io/projects/SA-Radar/" style="text-decoration: none;">Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding</a></h3>
+    <p style="margin: 5px 0;">
+          Weiqing Xiao*, Hao Huang*, Chonghao Zhong*, Yujie Lin, Nan Wang, Xiaoxue Chen, Zhaoxi Chen, <strong>Saining Zhang</strong>, Shuocheng Yang, Pierre Merriaux, Lei Lei, Hao Zhao†
+          <br> 
+          <a href="https://zhuxing0.github.io/projects/SA-Radar/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/abs/2506.03134" style="text-decoration: none;">[Paper]</a> 
+          <a href="https://github.com/zhuxing0/SA-Radar" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/selftok.png" alt="Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://selftok-team.github.io/report/" style="text-decoration: none;">Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning</a></h3>
+    <p style="margin: 5px 0;">
+          <strong>Selftok Team</strong> (Saining Zhang: Core contributor)
+          <br>
+          <b><i>Technical report</i></b>, an extended version of <a href="https://ddt-llama.github.io/">DDT-LLaMA</a><br> 
+          <a href="https://selftok-team.github.io/report/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/abs/2505.07538" style="text-decoration: none;">[Paper]</a> 
+          <a href="https://github.com/selftok-team/SelftokTokenizer" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/cruise.gif" alt="CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting" style="text-decoration: none;">CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting</a></h3>
