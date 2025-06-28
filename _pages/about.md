@@ -62,7 +62,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/cruise.png" alt="CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="../images/cruise.gif" alt="CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting" style="text-decoration: none;">CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting</a></h3>
     <p style="margin: 5px 0;">
