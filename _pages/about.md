@@ -17,7 +17,7 @@ You can find my CV here: [Saining Zhang's Curriculum Vitae](../assets/CV.pdf).
 
 News
 ======
-📣 [06.2025] We are currently recruiting summer interns. We hope you have a basic understanding of robot control and are familiar with simulation tools such as Isaac Gym. The position is based in BAAI, Beijing. We look forward to hearing from you—feel free to reach out to us!
+📣 [06.2025] We are currently recruiting summer interns. We hope you have a basic understanding of robot control and are familiar with simulation tools such as Isaac Gym. The position is based in [BAAI](https://www.baai.ac.cn/), Beijing. We look forward to hearing from you—feel free to reach out to us!<br>
 🎉 [06.2025] One paper got accepted to [ICCV 2025](https://iccv.thecvf.com/)!<br>
 🎉 [06.2025] One paper got accepted to [IROS 2025](https://www.iros25.org/)!<br>
 🤗 [05.2025] The first work of the Art Group, [GaussianArt](https://sainingzhang.github.io/project/gaussianart/) will soon be available. Thanks to all team members for their hard work!<br>
