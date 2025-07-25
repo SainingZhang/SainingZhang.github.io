@@ -36,6 +36,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           <br>
           <b><i>IROS 2025, <font color="red">Oral</font></i></b><br>
           <a href="https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting" style="text-decoration: none;">[Code]</a>
+          <a href="https://arxiv.org/abs/2507.18473" style="text-decoration: none;">[Paper]</a> 
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
