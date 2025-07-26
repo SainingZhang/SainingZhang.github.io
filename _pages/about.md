@@ -34,8 +34,8 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     <p style="margin: 5px 0;">
           <strong>Saining Zhang*</strong>, Baijun Ye*, Minghui Qin*, Moonjun Gong, Shaoting Zhu, Zebang Shen, Luan Zhang, Lu Zhang, Hao Zhao, Hang Zhao†
           <br>
+          <b><i>ICCV 2025</i></b><br>
           <a href="https://gs-occ3d.github.io/" style="text-decoration: none;">[Project page]</a><br>
-      <b><i>ICCV 2025</i></b><br>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
