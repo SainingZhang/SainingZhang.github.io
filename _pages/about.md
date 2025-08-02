@@ -27,10 +27,10 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/gsocc.png" alt="GS-Occ3D: Scaling Vision-only Occupancy Reconstruction for Autonomous Driving with Gaussian Splatting
+  <img src="../images/gsocc.png" alt="GS-Occ3D: Scaling Vision-only Occupancy Reconstruction with Gaussian Splatting
 " style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://gs-occ3d.github.io/" style="text-decoration: none;">GS-Occ3D: Scaling Vision-only Occupancy Reconstruction for Autonomous Driving with Gaussian Splatting</a></h3>
+    <h3 style="margin: 0;"><a href="https://gs-occ3d.github.io/" style="text-decoration: none;">GS-Occ3D: Scaling Vision-only Occupancy Reconstruction with Gaussian Splatting</a></h3>
     <p style="margin: 5px 0;">
           <strong>Saining Zhang*</strong>, Baijun Ye*, Minghui Qin*, Moonjun Gong, Shaoting Zhu, Zebang Shen, Luan Zhang, Lu Zhang, Hao Zhao, Hang Zhao†
           <br>
