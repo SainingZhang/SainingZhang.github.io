@@ -31,7 +31,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://sainingzhang.github.io/project/gaussianart/" style="text-decoration: none;">GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects</a></h3>
     <p style="margin: 5px 0;">
-          Licheng Shen*, <strong>Saining Zhang*‡</strong>, Honghan Li*, Zongzheng Zhang, Huan-ang Gao, Miao Run, Li Yi, Hao Zhao†
+          Licheng Shen*, <strong>Saining Zhang*‡</strong>, Honghan Li*, Peilin Yang, Zihao Huang, Zongzheng Zhang, Hao Zhao†
           <br>
           <a href="https://sainingzhang.github.io/project/gaussianart/" style="text-decoration: none;">[Project page]</a>
     </p>
