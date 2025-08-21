@@ -55,7 +55,8 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           <br>
           <b><i>ICCV 2025</i></b><br>
           <a href="https://gs-occ3d.github.io/" style="text-decoration: none;">[Project page]</a>
-          <a href="https://arxiv.org/abs/2507.19451" style="text-decoration: none;">[Paper]</a> 
+          <a href="https://arxiv.org/pdf/2507.19451" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2507.19451" style="text-decoration: none;">[Arxiv]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
@@ -72,7 +73,8 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           Haoran Xu*, <strong>Saining Zhang*‡</strong>, Peishuo Li*, Baijun Ye, Xiaoxue Chen, Huan-ang Gao, Jv Zheng, Xiaowei Song, Ziqiao Peng, Run Miao, Jinrang Jia, Yifeng Shi, Guangqi Yi, Hang Zhao, Hao Tang, Hongyang Li, Kaicheng Yu, Hao Zhao† 
           <br>
           <b><i>IROS 2025, <font color="red">Oral</font></i></b><br>
-          <a href="https://arxiv.org/abs/2507.18473" style="text-decoration: none;">[Paper]</a> 
+          <a href="https://arxiv.org/pdf/2507.18473" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2507.18473" style="text-decoration: none;">[Arxiv]</a>
           <a href="https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
@@ -91,7 +93,8 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           <br>
           <b><i>Technical report</i></b>, an extended version of <a href="https://ddt-llama.github.io/">DDT-LLaMA</a><br> 
           <a href="https://selftok-team.github.io/report/" style="text-decoration: none;">[Project page]</a>
-          <a href="https://arxiv.org/abs/2505.07538" style="text-decoration: none;">[Paper]</a> 
+          <a href="https://arxiv.org/pdf/2505.07538" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2505.07538" style="text-decoration: none;">[Arxiv]</a>
           <a href="https://github.com/selftok-team/SelftokTokenizer" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
