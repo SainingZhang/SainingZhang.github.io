@@ -130,7 +130,8 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           Weiqing Xiao*, Hao Huang*, Chonghao Zhong*, Yujie Lin, Nan Wang, Xiaoxue Chen, Zhaoxi Chen, <strong>Saining Zhang</strong>, Shuocheng Yang, Pierre Merriaux, Lei Lei, Hao Zhao†
           <br> 
           <a href="https://zhuxing0.github.io/projects/SA-Radar/" style="text-decoration: none;">[Project page]</a>
-          <a href="https://arxiv.org/abs/2506.03134" style="text-decoration: none;">[Paper]</a> 
+          <a href="https://arxiv.org/abs/2506.03134" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2506.03134" style="text-decoration: none;">[Paper]</a>
           <a href="https://github.com/zhuxing0/SA-Radar" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
@@ -149,7 +150,8 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           <br>
           <b><i>BMVC 2024</i></b><br>
           <a href="https://sainingzhang.github.io/project/uc-gs/" style="text-decoration: none;">[Project page]</a>
-          <a href="https://arxiv.org/abs/2408.15242" style="text-decoration: none;">[Paper]</a> 
+          <a href="https://arxiv.org/pdf/2408.15242" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2408.15242" style="text-decoration: none;">[Arxiv]</a>
           <a href="https://github.com/SainingZhang/uc-gs/" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
