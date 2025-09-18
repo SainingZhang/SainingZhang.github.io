@@ -17,7 +17,7 @@ You can find my CV here: [Saining Zhang's Curriculum Vitae](../assets/CV.pdf).
 
 News
 ======
-🎉 [09.2025] One paper got accepted to [NeurIPS 2025](https://neurips.cc/)!<br> Congrats to Nan!
+🎉 [09.2025] One paper got accepted to [NeurIPS 2025](https://neurips.cc/)! Congrats to Nan! <br>
 🤗 [08.2025] The first work of the Art Group, [GaussianArt](https://sainingzhang.github.io/project/gaussianart/) is available. We are on our way!<br>
 🎉 [06.2025] One paper got accepted to [ICCV 2025](https://iccv.thecvf.com/)!<br>
 🎉 [06.2025] One paper got accepted to [IROS 2025](https://www.iros25.org/)!<br>
