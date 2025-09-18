@@ -17,6 +17,7 @@ You can find my CV here: [Saining Zhang's Curriculum Vitae](../assets/CV.pdf).
 
 News
 ======
+🎉 [09.2025] One paper got accepted to [NeurIPS 2025](https://neurips.cc/)!<br> Congrats to Nan!
 🤗 [08.2025] The first work of the Art Group, [GaussianArt](https://sainingzhang.github.io/project/gaussianart/) is available. We are on our way!<br>
 🎉 [06.2025] One paper got accepted to [ICCV 2025](https://iccv.thecvf.com/)!<br>
 🎉 [06.2025] One paper got accepted to [IROS 2025](https://www.iros25.org/)!<br>
@@ -26,6 +27,27 @@ News
 Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBMcAAAAJ&hl=zh-CN)\]
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/bilateral.png" alt="Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://bigcileng.github.io/bilateral-driving/" style="text-decoration: none;">Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting</a></h3>
+    <p style="margin: 5px 0;">
+          Nan Wang, Yuantao Chen, Lixing Xiao, Weiqing Xiao, Bohan Li, Zhaoxi Chen, Chongjie Ye, Shaocong Xu, <strong>Saining Zhang</strong>, Ziyang Yan, Pierre Merriaux, Lei Lei, Tianfan Xue, Hao Zhao†
+          <br>
+          <b><i>NeurIPS 2025</i></b><br>
+          <a href="https://bigcileng.github.io/bilateral-driving/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2506.05280" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2506.05280" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://github.com/BigCiLeng/bilateral-driving" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/gaussianart.gif" alt="GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
@@ -96,25 +118,6 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           <a href="https://arxiv.org/pdf/2505.07538" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2505.07538" style="text-decoration: none;">[Arxiv]</a>
           <a href="https://github.com/selftok-team/SelftokTokenizer" style="text-decoration: none;">[Code]</a>
-    </p>
-    <div style="display: flex; align-items: center; margin-top: 10px;">
-      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
-      </a>
-    </div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/bilateral.png" alt="Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting" style="width: 350px; height: auto; margin-right: 20px;">
-  <div>
-    <h3 style="margin: 0;"><a href="https://bigcileng.github.io/bilateral-driving/" style="text-decoration: none;">Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting</a></h3>
-    <p style="margin: 5px 0;">
-          Nan Wang, Yuantao Chen, Lixing Xiao, Weiqing Xiao, Bohan Li, Zhaoxi Chen, Chongjie Ye, Shaocong Xu, <strong>Saining Zhang</strong>, Ziyang Yan, Pierre Merriaux, Lei Lei, Tianfan Xue, Hao Zhao†
-          <br> 
-          <a href="https://bigcileng.github.io/bilateral-driving/" style="text-decoration: none;">[Project page]</a>
-          <a href="https://arxiv.org/pdf/2506.05280" style="text-decoration: none;">[Paper]</a>
-          <a href="https://arxiv.org/abs/2506.05280" style="text-decoration: none;">[Arxiv]</a>
-          <a href="https://github.com/BigCiLeng/bilateral-driving" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
