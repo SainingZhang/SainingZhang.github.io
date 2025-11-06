@@ -17,7 +17,7 @@ You can find my CV here: [Saining Zhang's Curriculum Vitae](../assets/CV.pdf).
 
 News
 ======
-🎉 [11.2025] One paper got accepted to [3DV 2025](https://3dvconf.github.io/2026/)! <br>
+🎉 [11.2025] One paper got accepted to [3DV 2026](https://3dvconf.github.io/2026/)! <br>
 🎉 [09.2025] One paper got accepted to [NeurIPS 2025](https://neurips.cc/)! Congrats to Nan! <br>
 🎉 [06.2025] One paper got accepted to [ICCV 2025](https://iccv.thecvf.com/)!<br>
 🎉 [06.2025] One paper got accepted to [IROS 2025](https://www.iros25.org/)!<br>
