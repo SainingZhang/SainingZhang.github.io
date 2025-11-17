@@ -48,6 +48,26 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/gaussianart.gif" alt="GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://sainingzhang.github.io/project/gaussianart/" style="text-decoration: none;">GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects</a></h3>
+    <p style="margin: 5px 0;">
+          Licheng Shen*, <strong>Saining Zhang*‡</strong>, Honghan Li*, Peilin Yang, Zihao Huang, Zongzheng Zhang, Hao Zhao†
+          <br>
+          <b><i>3DV 2026</i></b><br>
+          <a href="https://sainingzhang.github.io/project/gaussianart/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2508.14891" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2508.14891" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://github.com/shenlc19/GaussianArt" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/bilateral.png" alt="Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://bigcileng.github.io/bilateral-driving/" style="text-decoration: none;">Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting</a></h3>
