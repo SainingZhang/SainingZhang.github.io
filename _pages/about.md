@@ -28,17 +28,14 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/gaussianart.gif" alt="GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="../images/spotdiff.png" alt="SpotDiff: Spotting and Disentangling Interference in Feature Space for Subject-Preserving Image Generation" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://sainingzhang.github.io/project/gaussianart/" style="text-decoration: none;">GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects</a></h3>
+    <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2510.07340" style="text-decoration: none;">SpotDiff: Spotting and Disentangling Interference in Feature Space for Subject-Preserving Image Generation</a></h3>
     <p style="margin: 5px 0;">
           Licheng Shen*, <strong>Saining Zhang*‡</strong>, Honghan Li*, Peilin Yang, Zihao Huang, Zongzheng Zhang, Hao Zhao†
           <br>
-          <b><i>3DV 2026</i></b><br>
-          <a href="https://sainingzhang.github.io/project/gaussianart/" style="text-decoration: none;">[Project page]</a>
-          <a href="https://arxiv.org/pdf/2508.14891" style="text-decoration: none;">[Paper]</a>
-          <a href="https://arxiv.org/abs/2508.14891" style="text-decoration: none;">[Arxiv]</a>
-          <a href="https://github.com/shenlc19/GaussianArt" style="text-decoration: none;">[Code]</a>
+          <a href="https://arxiv.org/pdf/2510.07340" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2510.07340" style="text-decoration: none;">[Arxiv]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
