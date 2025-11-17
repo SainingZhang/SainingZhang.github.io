@@ -32,7 +32,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2510.07340" style="text-decoration: none;">SpotDiff: Spotting and Disentangling Interference in Feature Space for Subject-Preserving Image Generation</a></h3>
     <p style="margin: 5px 0;">
-          Licheng Shen*, <strong>Saining Zhang*‡</strong>, Honghan Li*, Peilin Yang, Zihao Huang, Zongzheng Zhang, Hao Zhao†
+          Yongzhi Li, Saining Zhang, Yibing Chen, Boying Li, Yanxin Zhang, Xiaoyu Du
           <br>
           <a href="https://arxiv.org/pdf/2510.07340" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2510.07340" style="text-decoration: none;">[Arxiv]</a>
