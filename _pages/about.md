@@ -26,13 +26,29 @@ News
 Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBMcAAAAJ&hl=zh-CN)\]
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/spotdiff.png" alt="SpotDiff: Spotting and Disentangling Interference in Feature Space for Subject-Preserving Image Generation" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://weichow23.github.io/weave/" style="text-decoration: none;">SpotDiff: Spotting and Disentangling Interference in Feature Space for Subject-Preserving Image Generation</a></h3>
+    <p style="margin: 5px 0;">
+          Yongzhi Li, <strong>Saining Zhang</strong>, Yibing Chen, Boying Li, Yanxin Zhang, Xiaoyu Du
+          <br>
+          <a href="https://arxiv.org/pdf/2510.07340" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2510.07340" style="text-decoration: none;">[Arxiv]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/spotdiff.png" alt="SpotDiff: Spotting and Disentangling Interference in Feature Space for Subject-Preserving Image Generation" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2510.07340" style="text-decoration: none;">SpotDiff: Spotting and Disentangling Interference in Feature Space for Subject-Preserving Image Generation</a></h3>
     <p style="margin: 5px 0;">
-          Yongzhi Li, Saining Zhang, Yibing Chen, Boying Li, Yanxin Zhang, Xiaoyu Du
+          Yongzhi Li, <strong>Saining Zhang</strong>, Yibing Chen, Boying Li, Yanxin Zhang, Xiaoyu Du
           <br>
           <a href="https://arxiv.org/pdf/2510.07340" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2510.07340" style="text-decoration: none;">[Arxiv]</a>
