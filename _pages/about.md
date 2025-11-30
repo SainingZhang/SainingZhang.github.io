@@ -13,8 +13,6 @@ My research interest includes computer vision, computer graphics and embodied AI
 
 I am very fortunate to be advised by [Prof. Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/) of [MReaL](https://mreallab.github.io/) lab from CCDS, Nanyang Technological University. Previously, I received my B.S. degree at School of Computer Science & Technology, Beijing Institute of Technology. I've been working at Institute for AI Industry Research (AIR), Tsinghua University supervised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto).
 
-You can find my CV here: [Saining Zhang's Curriculum Vitae](../assets/CV.pdf).
-
 News
 ======
 🎉 [11.2025] One paper got accepted to [3DV 2026](https://3dvconf.github.io/2026/)! <br>
