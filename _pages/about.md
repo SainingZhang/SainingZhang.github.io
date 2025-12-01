@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student from [College of Computing and Data Science](https://www.ntu.edu.sg/computing) (CCDS), Nanyang Technological University. I am currently working as a research intern on MLLM at [Huawei Singapore](https://www.huawei.com/sg/).
+I'm Saining Zhang, a Ph.D. student in the College of Computing and Data Science at [Nanyang Technological University](https://www.ntu.edu.sg/computing), supervised by Prof. [Hanwang Zhang](https://mreallab.github.io/). I am currently working as a research intern on MLLM at [Huawei Singapore](https://www.huawei.com/sg/).
 My research interest includes computer vision, computer graphics and embodied AI.
 
-I am very fortunate to be advised by [Prof. Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/) of [MReaL](https://mreallab.github.io/) lab from CCDS, Nanyang Technological University. Previously, I received my B.S. degree at School of Computer Science & Technology, Beijing Institute of Technology. I've been working at Institute for AI Industry Research (AIR), Tsinghua University supervised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto).
+Previously, I received my bachelor degree from [Beijing Institute of Technology](https://cs.bit.edu.cn/). I've been working at Institute for AI Industry Research (AIR), [Tsinghua University](https://air.tsinghua.edu.cn/en/) supervised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto).
 
 News
 ======
