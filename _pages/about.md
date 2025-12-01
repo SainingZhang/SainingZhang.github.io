@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm Saining Zhang, a Ph.D. student in the College of Computing and Data Science at [Nanyang Technological University](https://www.ntu.edu.sg/computing), supervised by Prof. [Hanwang Zhang](https://mreallab.github.io/). I am currently working as a research intern on MLLM at [Huawei Singapore](https://www.huawei.com/sg/).
-My research interest includes computer vision, computer graphics and embodied AI.
+My research interest includes computer vision and computer graphics.
 
 Previously, I received my bachelor’s degree from [Beijing Institute of Technology](https://cs.bit.edu.cn/) in 2024, where I was supervised by Prof. [Hao Zhao](https://sites.google.com/view/fromandto) from the Institute for AI Industry Research (AIR), [Tsinghua University](https://air.tsinghua.edu.cn/en/).
 
