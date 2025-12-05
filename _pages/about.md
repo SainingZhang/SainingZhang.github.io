@@ -25,14 +25,14 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <video src="../images/light-x.mp4"
-       width="350"
-       autoplay
-       muted
-       loop
-       playsinline
-       style="margin-right: 20px;">
-  </video>
+  <video
+  width="350"
+  controls
+  muted
+  style="margin-right: 20px;"
+>
+  <source src="../images/light-x.mp4" type="video/mp4">
+</video>
   <div>
     <h3 style="margin: 0;"><a href="https://weichow23.github.io/weave/" style="text-decoration: none;">Unleashing and Benchmarking the Interleaved Cross-modality Comprehension and Generation</a></h3>
     <p style="margin: 5px 0;">
