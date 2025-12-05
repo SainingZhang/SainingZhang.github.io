@@ -25,23 +25,16 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <video
-  width="350"
-  controls
-  muted
-  style="margin-right: 20px;"
->
-  <source src="../images/light-x.mp4" type="video/mp4">
-</video>
+  <img src="../images/light-x.gif" alt="Light-X : Generative 4D Video Rendering with Camera and Illumination Control" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://weichow23.github.io/weave/" style="text-decoration: none;">Unleashing and Benchmarking the Interleaved Cross-modality Comprehension and Generation</a></h3>
+    <h3 style="margin: 0;"><a href="https://lightx-ai.github.io/" style="text-decoration: none;">Light-X : Generative 4D Video Rendering with Camera and Illumination Control</a></h3>
     <p style="margin: 5px 0;">
-          Wei Chow*, Jiachun Pan*, Yongyuan Liang, Mingze Zhou, Liyu Jia, <strong>Saining Zhang</strong>, Xue Song, Siliang Tang, Juncheng Li, Fengda Zhang†, Weijia Wu†, Hanwang Zhang, Tat-Seng Chua
+          Tianqi Liu, Zhaoxi Chen, Zihao Huang, Shaocong Xu, <strong>Saining Zhang</strong>, Chongjie Ye, Bohan Li, Zhiguo Cao, Wei Li, Hao Zhao†, Ziwei Liu†
           <br>
-          <a href="https://weichow23.github.io/weave/" style="text-decoration: none;">[Project page]</a>
-          <a href="https://arxiv.org/pdf/2511.11434" style="text-decoration: none;">[Paper]</a>
-          <a href="https://arxiv.org/abs/2511.11434" style="text-decoration: none;">[Arxiv]</a>
-          <a href="https://github.com/weichow23/weave" style="text-decoration: none;">[Code]</a>
+          <a href="https://lightx-ai.github.io/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2512.05115" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2512.05115" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://github.com/TQTQliu/Light-X" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
@@ -49,6 +42,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     </div>
   </div>
 </div>
+
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/weave.png" alt="Unleashing and Benchmarking the Interleaved Cross-modality Comprehension and Generation" style="width: 350px; height: auto; margin-right: 20px;">
