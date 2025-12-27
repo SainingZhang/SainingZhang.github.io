@@ -25,6 +25,23 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/DKT.gif" alt="Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://daniellli.github.io/projects/DKT/" style="text-decoration: none;">Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation</a></h3>
+    <p style="margin: 5px 0;">
+          Shaocong Xu, Songlin Wei, Qizhe Wei, Zheng Geng, Hong Li, Licheng Shen, Qianpu Sun, Shu Han, Bin Ma, Bohan Li, Chongjie Ye, Yuhang Zheng, Nan Wang, <strong>Saining Zhang</strong>, Hao Zhao†
+          <br>
+          <a href="https://daniellli.github.io/projects/DKT/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://github.com/Daniellli/DKT" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/light-x.gif" alt="Light-X : Generative 4D Video Rendering with Camera and Illumination Control" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://lightx-ai.github.io/" style="text-decoration: none;">Light-X : Generative 4D Video Rendering with Camera and Illumination Control</a></h3>
