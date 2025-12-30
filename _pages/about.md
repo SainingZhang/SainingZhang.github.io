@@ -32,6 +32,8 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           Shaocong Xu, Songlin Wei, Qizhe Wei, Zheng Geng, Hong Li, Licheng Shen, Qianpu Sun, Shu Han, Bin Ma, Bohan Li, Chongjie Ye, Yuhang Zheng, Nan Wang, <strong>Saining Zhang</strong>, Hao Zhao†
           <br>
           <a href="https://daniellli.github.io/projects/DKT/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2512.23705" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2512.23705" style="text-decoration: none;">[Arxiv]</a>
           <a href="https://github.com/Daniellli/DKT" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
