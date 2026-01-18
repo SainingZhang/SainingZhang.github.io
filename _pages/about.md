@@ -25,6 +25,23 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/paperdecision.png" alt="ICLR 2026 Acceptance Prediction: Benchmarking Decision Process with A Multi-Agent System" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://paperdecision.netlify.app/" style="text-decoration: none;">ICLR 2026 Acceptance Prediction: Benchmarking Decision Process with A Multi-Agent System</a></h3>
+    <p style="margin: 5px 0;">
+          Yi-Fan Zhang*, Yuhao Dong*, <strong>Saining Zhang*</strong>, Kai Wu, Liang Wang, Caifeng Shan, Ziwei Liu, Ran He, Hao Zhao, Chaoyou Fu‡
+          <br>
+          <a href="https://paperdecision.netlify.app/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://github.com/PaperDecision/PaperDecision" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/DKT.gif" alt="Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://daniellli.github.io/projects/DKT/" style="text-decoration: none;">Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation</a></h3>
