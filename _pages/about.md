@@ -68,6 +68,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     <p style="margin: 5px 0;">
           Tianqi Liu, Zhaoxi Chen, Zihao Huang, Shaocong Xu, <strong>Saining Zhang</strong>, Chongjie Ye, Bohan Li, Zhiguo Cao, Wei Li, Hao Zhao†, Ziwei Liu†
           <br>
+          <b><i>ICLR 2026</i></b><br>
           <a href="https://lightx-ai.github.io/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2512.05115" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2512.05115" style="text-decoration: none;">[Arxiv]</a>
