@@ -15,6 +15,7 @@ Previously, I received my bachelor’s degree from [Beijing Institute of Technol
 
 News
 ======
+🎉 [01.2026] One paper got accepted to [ICRA 2026](https://2026.ieee-icra.org/)! <br>
 🎉 [01.2026] One paper got accepted to [ICLR 2026](https://iclr.cc/)! <br>
 🎉 [11.2025] One paper got accepted to [3DV 2026](https://3dvconf.github.io/2026/)! <br>
 🎉 [09.2025] One paper got accepted to [NeurIPS 2025](https://neurips.cc/)! Congrats to Nan! <br>
@@ -49,6 +50,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     <p style="margin: 5px 0;">
           Shaocong Xu, Songlin Wei, Qizhe Wei, Zheng Geng, Hong Li, Licheng Shen, Qianpu Sun, Shu Han, Bin Ma, Bohan Li, Chongjie Ye, Yuhang Zheng, Nan Wang, <strong>Saining Zhang</strong>, Hao Zhao†
           <br>
+          <b><i>ICRA 2026</i></b><br>
           <a href="https://daniellli.github.io/projects/DKT/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2512.23705" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2512.23705" style="text-decoration: none;">[Arxiv]</a>
