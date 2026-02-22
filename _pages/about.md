@@ -91,6 +91,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     <p style="margin: 5px 0;">
           Wei Chow*, Jiachun Pan*, Yongyuan Liang, Mingze Zhou, Liyu Jia, <strong>Saining Zhang</strong>, Xue Song, Siliang Tang, Juncheng Li, Fengda Zhang†, Weijia Wu†, Hanwang Zhang, Tat-Seng Chua
           <br>
+          <b><i>CVPR 2026</i></b><br>
           <a href="https://weichow23.github.io/weave/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2511.11434" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2511.11434" style="text-decoration: none;">[Arxiv]</a>
