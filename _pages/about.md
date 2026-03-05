@@ -28,6 +28,26 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/ArtHOI.gif" alt="ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://lightx-ai.github.io/" style="text-decoration: none;">ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors</a></h3>
+    <p style="margin: 5px 0;">
+          Zihao Huang, Tianqi Liu, Zhaoxi Chen, Shaocong Xu, <strong>Saining Zhang</strong>, Lixing Xiao, Zhiguo Cao, Wei Li, Hao Zhao†, Ziwei Liu†
+          <br>
+          <a href="https://arthoi.github.io/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2603.04338" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2603.04338" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://github.com/Inso-13/ArtHOI" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/paperdecision.png" alt="ICLR 2026 Acceptance Prediction: Benchmarking Decision Process with A Multi-Agent System" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://paperdecision.netlify.app/" style="text-decoration: none;">ICLR 2026 Acceptance Prediction: Benchmarking Decision Process with A Multi-Agent System</a></h3>
