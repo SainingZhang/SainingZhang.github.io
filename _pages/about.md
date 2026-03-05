@@ -30,7 +30,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/ArtHOI.gif" alt="ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://lightx-ai.github.io/" style="text-decoration: none;">ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors</a></h3>
+    <h3 style="margin: 0;"><a href="https://arthoi.github.io/" style="text-decoration: none;">ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors</a></h3>
     <p style="margin: 5px 0;">
           Zihao Huang, Tianqi Liu, Zhaoxi Chen, Shaocong Xu, <strong>Saining Zhang</strong>, Lixing Xiao, Zhiguo Cao, Wei Li, Hao Zhao†, Ziwei Liu†
           <br>
