@@ -233,6 +233,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     <p style="margin: 5px 0;">
           Weiqing Xiao*, Hao Huang*, Chonghao Zhong*, Yujie Lin, Nan Wang, Xiaoxue Chen, Zhaoxi Chen, <strong>Saining Zhang</strong>, Shuocheng Yang, Pierre Merriaux, Lei Lei, Hao Zhao†
           <br> 
+          <b><i>CVPR 2026 Findings</i></b><br>
           <a href="https://zhuxing0.github.io/projects/SA-Radar/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2506.03134" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2506.03134" style="text-decoration: none;">[Arxiv]</a>
