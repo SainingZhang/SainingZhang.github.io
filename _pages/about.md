@@ -28,9 +28,9 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/H3D.png" alt="High-quality Holistic 3D Editing Dataset" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="../images/H3D.png" alt="H³D v1: High-quality Holistic 3D Editing Dataset" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://huggingface.co/datasets/ART-3D/H3D_v1" style="text-decoration: none;">High-quality Holistic 3D Editing Dataset</a></h3>
+    <h3 style="margin: 0;"><a href="https://huggingface.co/datasets/ART-3D/H3D_v1" style="text-decoration: none;">H³D v1: High-quality Holistic 3D Editing Dataset</a></h3>
     <p style="margin: 5px 0;">
           <a href="https://huggingface.co/datasets/ART-3D/H3D_v1" style="text-decoration: none;">[Data]</a>
     </p>
