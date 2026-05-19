@@ -30,7 +30,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/H3D.png" alt="Feedforward 3D Editing Learns from Semantic-Part Transformation" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://dennis-jwweng.github.io/pxform/" style="text-decoration: none;">H³D v1: High-quality Holistic 3D Editing Dataset</a></h3>
+    <h3 style="margin: 0;"><a href="https://dennis-jwweng.github.io/pxform/" style="text-decoration: none;">Feedforward 3D Editing Learns from Semantic-Part Transformation</a></h3>
     <p style="margin: 5px 0;">
           <a href="https://dennis-jwweng.github.io/pxform/" style="text-decoration: none;">[Project page]</a>
           <a href="https://huggingface.co/datasets/ART-3D/Pxform_v1" style="text-decoration: none;">[Data]</a>
