@@ -35,6 +35,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           Zongzheng Zhang∗, Jingrui Pang∗, Zhuo Yang, Kun Li, Minwen Liao, <strong>Saining Zhang</strong>, Guoxuan Chi, Jinbang Guo, Huan-ang Gao, Modi Shi, Dongyun Ge, Yao Mu, 
           Jiayuan Gu, Rui Chen, Hao Dong, Huazhe Xu, Li Yi, Yixin Zhu, Hang Zhao, Pengwei Wang, Shanghang Zhang, Guocai Yao, Jianyu Chen, Hongyang Li, Hao Zhao†
           <br>
+          <b><i>ICRA 2026, <font color="red">Best Paper Final List</font></i></b><br>
           <a href="https://dexoravla.github.io/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2605.18722v1" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2605.18722v1" style="text-decoration: none;">[Arxiv]</a>
