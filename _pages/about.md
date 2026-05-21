@@ -55,7 +55,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://dennis-jwweng.github.io/pxform/" style="text-decoration: none;">Feedforward 3D Editing Learns from Semantic-Part Transformation</a></h3>
     <p style="margin: 5px 0;">
-          Jiawei Weng*, <strong>Saining Zhang1*†</strong>, Zhenxin Diao*, Peishuo Li, Henghaofan Zhang, Junhao Chen, Hao Zhao,†
+          Jiawei Weng*, <strong>Saining Zhang*†</strong>, Zhenxin Diao*, Peishuo Li, Henghaofan Zhang, Junhao Chen, Hao Zhao,†
           <br>
           <a href="https://dennis-jwweng.github.io/pxform/" style="text-decoration: none;">[Project page]</a>
           <a href="https://huggingface.co/datasets/ART-3D/Pxform_v1" style="text-decoration: none;">[Data]</a>
