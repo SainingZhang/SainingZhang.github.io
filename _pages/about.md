@@ -28,17 +28,17 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/dexora" alt="Dexora: Open-Source VLA for High-DoF Bimanual Dexterity" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="../images/dexora.png" alt="Dexora: Open-Source VLA for High-DoF Bimanual Dexterity" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://dexoravla.github.io/" style="text-decoration: none;">Dexora: Open-Source VLA for High-DoF Bimanual Dexterity</a></h3>
     <p style="margin: 5px 0;">
           Zongzheng Zhang∗, Jingrui Pang∗, Zhuo Yang, Kun Li, Minwen Liao, <strong>Saining Zhang</strong>, Guoxuan Chi, Jinbang Guo, Huan-ang Gao, Modi Shi, Dongyun Ge, Yao Mu, 
           Jiayuan Gu, Rui Chen, Hao Dong, Huazhe Xu, Li Yi, Yixin Zhu, Hang Zhao, Pengwei Wang, Shanghang Zhang, Guocai Yao, Jianyu Chen, Hongyang Li, Hao Zhao†
           <br>
-          <a href="https://arthoi.github.io/" style="text-decoration: none;">[Project page]</a>
-          <a href="https://arxiv.org/pdf/2603.04338" style="text-decoration: none;">[Paper]</a>
-          <a href="https://arxiv.org/abs/2603.04338" style="text-decoration: none;">[Arxiv]</a>
-          <a href="https://github.com/Inso-13/ArtHOI" style="text-decoration: none;">[Code]</a>
+          <a href="https://dexoravla.github.io/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2605.18722v1" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2605.18722v1" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://github.com/dexoravla/Dexora" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
@@ -54,6 +54,8 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://dennis-jwweng.github.io/pxform/" style="text-decoration: none;">Feedforward 3D Editing Learns from Semantic-Part Transformation</a></h3>
     <p style="margin: 5px 0;">
+          Jiawei Weng*, <strong>Saining Zhang1*†</strong>, Zhenxin Diao*, Peishuo Li, Henghaofan Zhang, Junhao Chen, Hao Zhao,†
+          <br>
           <a href="https://dennis-jwweng.github.io/pxform/" style="text-decoration: none;">[Project page]</a>
           <a href="https://huggingface.co/datasets/ART-3D/Pxform_v1" style="text-decoration: none;">[Data]</a>
     </p>
