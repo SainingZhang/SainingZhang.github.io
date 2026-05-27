@@ -342,7 +342,7 @@ Internships
 
 Service
 ======
-I served / was delegated as Reviewer for NeurIPS 2025, IROS 2025, ACMMM 2024 and BMVC 2024.
+I served / was delegated as Reviewer for ECCV 2026, NeurIPS 2025, IROS 2025, ACMMM 2024 and BMVC 2024.
 
 
 
