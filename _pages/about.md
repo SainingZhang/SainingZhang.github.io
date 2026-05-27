@@ -58,7 +58,9 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           Jiawei Weng*, <strong>Saining Zhang*†</strong>, Zhenxin Diao*, Peishuo Li, Henghaofan Zhang, Junhao Chen, Hao Zhao†
           <br>
           <a href="https://dennis-jwweng.github.io/pxform/" style="text-decoration: none;">[Project page]</a>
-          <a href="https://huggingface.co/datasets/ART-3D/Pxform_v1" style="text-decoration: none;">[Data]</a>
+          <a href="https://arxiv.org/pdf/2605.27351" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2605.27351" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://github.com/Dennis-JwWeng/PartFlow" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
