@@ -28,6 +28,23 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/dexora.png" alt="Imagine Before You Draw: Visual Prompt Engineering for Image Generation" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2606.04457" style="text-decoration: none;">Imagine Before You Draw: Visual Prompt Engineering for Image Generation</a></h3>
+    <p style="margin: 5px 0;">
+          Liyu Jia∗, Fengda Zhang∗†, Jiachun Pan∗, Kesen Zhao, Saining Zhang, Wang Lin, Weijia Wu, Yue Liao, Aojun Zhou, Hanwang Zhang
+          <br>
+          <a href="https://arxiv.org/pdf/2606.04457" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2606.04457" style="text-decoration: none;">[Arxiv]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/dexora.png" alt="Dexora: Open-Source VLA for High-DoF Bimanual Dexterity" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://dexoravla.github.io/" style="text-decoration: none;">Dexora: Open-Source VLA for High-DoF Bimanual Dexterity</a></h3>
