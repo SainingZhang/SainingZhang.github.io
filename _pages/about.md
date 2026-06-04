@@ -28,11 +28,11 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/dexora.png" alt="Imagine Before You Draw: Visual Prompt Engineering for Image Generation" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="../images/vpe.png" alt="Imagine Before You Draw: Visual Prompt Engineering for Image Generation" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2606.04457" style="text-decoration: none;">Imagine Before You Draw: Visual Prompt Engineering for Image Generation</a></h3>
     <p style="margin: 5px 0;">
-          Liyu Jia∗, Fengda Zhang∗†, Jiachun Pan∗, Kesen Zhao, Saining Zhang, Wang Lin, Weijia Wu, Yue Liao, Aojun Zhou, Hanwang Zhang
+          Liyu Jia∗, Fengda Zhang∗†, Jiachun Pan∗, Kesen Zhao, <strong>Saining Zhang</strong>, Wang Lin, Weijia Wu, Yue Liao, Aojun Zhou, Hanwang Zhang
           <br>
           <a href="https://arxiv.org/pdf/2606.04457" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2606.04457" style="text-decoration: none;">[Arxiv]</a>
