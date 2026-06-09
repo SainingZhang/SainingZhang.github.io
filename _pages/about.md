@@ -186,6 +186,22 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/gencap.png" alt="Gen-NCAP: A Generative Simulator for Corner Case Benchmarking in End-to-End Autonomous Driving" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://sainingzhang.github.io/" style="text-decoration: none;">Gen-NCAP: A Generative Simulator for Corner Case Benchmarking in End-to-End Autonomous Driving</a></h3>
+    <p style="margin: 5px 0;">
+          Gen Li, Nan Wang, Yunlong Li, Ziyang Yan, Yinghao Shuai, <strong>Saining Zhang</strong>, Shu Han, Shaocong Xu, Baijun Ye, Lu Zhang, Luan Zhang, Paul Barsch, Zebang Shen, Chaojian Li, Hang Zhao, Ya-Qin Zhang, Hao Zhao†
+          <br>
+          <b><i>IASEAI 2026</i></b><br>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/gaussianart.gif" alt="GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://sainingzhang.github.io/project/gaussianart/" style="text-decoration: none;">GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects</a></h3>
