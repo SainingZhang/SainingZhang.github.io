@@ -65,8 +65,6 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   </div>
 </div>
 
-
-
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/H3D.png" alt="Feedforward 3D Editing Learns from Semantic-Part Transformation" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
@@ -104,7 +102,6 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     </div>
   </div>
 </div>
-
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/paperdecision.png" alt="ICLR 2026 Acceptance Prediction: Benchmarking Decision Process with A Multi-Agent System" style="width: 350px; height: auto; margin-right: 20px;">
@@ -162,7 +159,6 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     </div>
   </div>
 </div>
-
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/weave.png" alt="Unleashing and Benchmarking the Interleaved Cross-modality Comprehension and Generation" style="width: 350px; height: auto; margin-right: 20px;">
