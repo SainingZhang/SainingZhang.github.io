@@ -15,6 +15,8 @@ Previously, I received my bachelor’s degree from [Beijing Institute of Technol
 
 News
 ======
+🎉 [06.2026] Three papers got accepted to [ECCV 2026](https://eccv.ecva.net/)! <br>
+🎉 [06.2026] One paper got accepted to [IROS 2026](https://2026.ieee-iros.org/)! <br>
 🎉 [02.2026] One paper got accepted to [CVPR 2026](https://cvpr.thecvf.com/)! <br>
 🎉 [01.2026] Two papers got accepted to [ICRA 2026](https://2026.ieee-icra.org/)! <br>
 🎉 [01.2026] One paper got accepted to [ICLR 2026](https://iclr.cc/)! <br>
