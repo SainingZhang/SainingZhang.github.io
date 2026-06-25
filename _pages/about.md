@@ -30,6 +30,26 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/libero.png" alt="LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://libero-safety.github.io/" style="text-decoration: none;">LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models</a></h3>
+    <p style="margin: 5px 0;">
+          Rongxu Cui*, Zongzheng Zhang*, Jingrui Pang, Haohao Chi, Jinbang Guo, <strong>Saining Zhang</strong>, Shaoxuan Xie, Xin Jin, Yao Mu, Jiaolong Yang, Guocai Yao, Xianyuan Zhan, Ya-Qin Zhang, and Hao Zhao
+          <br>
+          <b><i>ECCV 2026</i></b><br>
+          <a href="https://libero-safety.github.io/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2606.23686" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2606.23686" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://github.com/LIBERO-SAFETY/LIBERO-Safety" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/vpe.png" alt="Imagine Before You Draw: Visual Prompt Engineering for Image Generation" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2606.04457" style="text-decoration: none;">Imagine Before You Draw: Visual Prompt Engineering for Image Generation</a></h3>
