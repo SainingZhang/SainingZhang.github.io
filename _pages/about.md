@@ -30,6 +30,24 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/ovow.png" alt="One Video, One World: Turning Monocular Video into Physical 4D Scenes" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://onevideooneworld.github.io/" style="text-decoration: none;">One Video, One World: Turning Monocular Video into Physical 4D Scenes</a></h3>
+    <p style="margin: 5px 0;">
+          Junhao Chen*, Boran Zhang*, Mingjin Chen, Henghaofan Zhang, <strong>Saining Zhang</strong>, Congcong Zhu, Hao Zhao, Ruqi Huang†, Zhihao Li, and Yufei Wang†
+          <br>
+          <b><i>ECCV 2026</i></b><br>
+          <a href="https://arxiv.org/pdf/2606.31388" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2606.31388" style="text-decoration: none;">[Arxiv]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/libero.png" alt="LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://libero-safety.github.io/" style="text-decoration: none;">LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models</a></h3>
