@@ -34,7 +34,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://onevideooneworld.github.io/" style="text-decoration: none;">One Video, One World: Turning Monocular Video into Physical 4D Scenes</a></h3>
     <p style="margin: 5px 0;">
-          Junhao Chen*, Boran Zhang*, Mingjin Chen, Henghaofan Zhang, <strong>Saining Zhang</strong>, Congcong Zhu, Hao Zhao, Ruqi Huang†, Zhihao Li, and Yufei Wang†
+          Junhao Chen, Boran Zhang, Mingjin Chen, Henghaofan Zhang, <strong>Saining Zhang</strong>, Congcong Zhu, Hao Zhao, Ruqi Huang, Zhihao Li, and Yufei Wang
           <br>
           <b><i>ECCV 2026</i></b><br>
           <a href="https://onevideooneworld.github.io/" style="text-decoration: none;">[Project page]</a>
@@ -54,7 +54,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://libero-safety.github.io/" style="text-decoration: none;">LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models</a></h3>
     <p style="margin: 5px 0;">
-          Rongxu Cui*, Zongzheng Zhang*, Jingrui Pang, Haohao Chi, Jinbang Guo, <strong>Saining Zhang</strong>, Shaoxuan Xie, Xin Jin, Yao Mu, Jiaolong Yang, Guocai Yao, Xianyuan Zhan, Ya-Qin Zhang, and Hao Zhao
+          Rongxu Cui, Zongzheng Zhang, Jingrui Pang, Haohao Chi, Jinbang Guo, <strong>Saining Zhang</strong>, Shaoxuan Xie, Xin Jin, Yao Mu, Jiaolong Yang, Guocai Yao, Xianyuan Zhan, Ya-Qin Zhang, and Hao Zhao
           <br>
           <b><i>ECCV 2026</i></b><br>
           <a href="https://libero-safety.github.io/" style="text-decoration: none;">[Project page]</a>
@@ -74,7 +74,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2606.04457" style="text-decoration: none;">Imagine Before You Draw: Visual Prompt Engineering for Image Generation</a></h3>
     <p style="margin: 5px 0;">
-          Liyu Jia∗, Fengda Zhang∗†, Jiachun Pan∗, Kesen Zhao, <strong>Saining Zhang</strong>, Wang Lin, Weijia Wu, Yue Liao, Aojun Zhou, Hanwang Zhang
+          Liyu Jia, Fengda Zhang, Jiachun Pan, Kesen Zhao, <strong>Saining Zhang</strong>, Wang Lin, Weijia Wu, Yue Liao, Aojun Zhou, Hanwang Zhang
           <br>
           <a href="https://arxiv.org/pdf/2606.04457" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2606.04457" style="text-decoration: none;">[Arxiv]</a>
@@ -91,8 +91,8 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://dexoravla.github.io/" style="text-decoration: none;">Dexora: Open-Source VLA for High-DoF Bimanual Dexterity</a></h3>
     <p style="margin: 5px 0;">
-          Zongzheng Zhang∗, Jingrui Pang∗, Zhuo Yang, Kun Li, Minwen Liao, <strong>Saining Zhang</strong>, Guoxuan Chi, Jinbang Guo, Huan-ang Gao, Modi Shi, Dongyun Ge, Yao Mu, 
-          Jiayuan Gu, Rui Chen, Hao Dong, Huazhe Xu, Li Yi, Yixin Zhu, Hang Zhao, Pengwei Wang, Shanghang Zhang, Guocai Yao, Jianyu Chen, Hongyang Li, Hao Zhao†
+          Zongzheng Zhang, Jingrui Pang, Zhuo Yang, Kun Li, Minwen Liao, <strong>Saining Zhang</strong>, Guoxuan Chi, Jinbang Guo, Huan-ang Gao, Modi Shi, Dongyun Ge, Yao Mu, 
+          Jiayuan Gu, Rui Chen, Hao Dong, Huazhe Xu, Li Yi, Yixin Zhu, Hang Zhao, Pengwei Wang, Shanghang Zhang, Guocai Yao, Jianyu Chen, Hongyang Li, Hao Zhao
           <br>
           <b><i>ICRA 2026, <font color="red">Best Paper Final List</font></i></b><br>
           <a href="https://dexoravla.github.io/" style="text-decoration: none;">[Project page]</a>
@@ -112,7 +112,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://dennis-jwweng.github.io/pxform/" style="text-decoration: none;">Feedforward 3D Editing Learns from Semantic-Part Transformation</a></h3>
     <p style="margin: 5px 0;">
-          Jiawei Weng*, <strong>Saining Zhang*†</strong>, Zhenxin Diao*, Peishuo Li, Henghaofan Zhang, Junhao Chen, Hao Zhao†
+          Jiawei Weng*, <strong>Saining Zhang*†</strong>, Zhenxin Diao*, Peishuo Li, Henghaofan Zhang, Junhao Chen, Hao Zhao
           <br>
           <a href="https://dennis-jwweng.github.io/pxform/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2605.27351" style="text-decoration: none;">[Paper]</a>
@@ -131,7 +131,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://arthoi.github.io/" style="text-decoration: none;">ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors</a></h3>
     <p style="margin: 5px 0;">
-          Zihao Huang, Tianqi Liu, Zhaoxi Chen, Shaocong Xu, <strong>Saining Zhang</strong>, Lixing Xiao, Zhiguo Cao, Wei Li, Hao Zhao†, Ziwei Liu†
+          Zihao Huang, Tianqi Liu, Zhaoxi Chen, Shaocong Xu, <strong>Saining Zhang</strong>, Lixing Xiao, Zhiguo Cao, Wei Li, Hao Zhao, Ziwei Liu
           <br>
           <a href="https://arthoi.github.io/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2603.04338" style="text-decoration: none;">[Paper]</a>
@@ -150,7 +150,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://paperdecision.netlify.app/" style="text-decoration: none;">ICLR 2026 Acceptance Prediction: Benchmarking Decision Process with A Multi-Agent System</a></h3>
     <p style="margin: 5px 0;">
-          Yi-Fan Zhang*, Yuhao Dong*, <strong>Saining Zhang*</strong>, Kai Wu, Liang Wang, Caifeng Shan, Ziwei Liu, Ran He, Hao Zhao, Chaoyou Fu‡
+          Yi-Fan Zhang*, Yuhao Dong*, <strong>Saining Zhang*</strong>, Kai Wu, Liang Wang, Caifeng Shan, Ziwei Liu, Ran He, Hao Zhao, Chaoyou Fu
           <br>
           <a href="https://paperdecision.netlify.app/" style="text-decoration: none;">[Project page]</a>
           <a href="https://github.com/PaperDecision/PaperDecision" style="text-decoration: none;">[Code]</a>
@@ -167,7 +167,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://daniellli.github.io/projects/DKT/" style="text-decoration: none;">Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation</a></h3>
     <p style="margin: 5px 0;">
-          Shaocong Xu, Songlin Wei, Qizhe Wei, Zheng Geng, Hong Li, Licheng Shen, Qianpu Sun, Shu Han, Bin Ma, Bohan Li, Chongjie Ye, Yuhang Zheng, Nan Wang, <strong>Saining Zhang</strong>, Hao Zhao†
+          Shaocong Xu, Songlin Wei, Qizhe Wei, Zheng Geng, Hong Li, Licheng Shen, Qianpu Sun, Shu Han, Bin Ma, Bohan Li, Chongjie Ye, Yuhang Zheng, Nan Wang, <strong>Saining Zhang</strong>, Hao Zhao
           <br>
           <b><i>ICRA 2026</i></b><br>
           <a href="https://daniellli.github.io/projects/DKT/" style="text-decoration: none;">[Project page]</a>
@@ -187,7 +187,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://lightx-ai.github.io/" style="text-decoration: none;">Light-X : Generative 4D Video Rendering with Camera and Illumination Control</a></h3>
     <p style="margin: 5px 0;">
-          Tianqi Liu, Zhaoxi Chen, Zihao Huang, Shaocong Xu, <strong>Saining Zhang</strong>, Chongjie Ye, Bohan Li, Zhiguo Cao, Wei Li, Hao Zhao†, Ziwei Liu†
+          Tianqi Liu, Zhaoxi Chen, Zihao Huang, Shaocong Xu, <strong>Saining Zhang</strong>, Chongjie Ye, Bohan Li, Zhiguo Cao, Wei Li, Hao Zhao, Ziwei Liu
           <br>
           <b><i>ICLR 2026</i></b><br>
           <a href="https://lightx-ai.github.io/" style="text-decoration: none;">[Project page]</a>
@@ -207,7 +207,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://weichow23.github.io/weave/" style="text-decoration: none;">Unleashing and Benchmarking the Interleaved Cross-modality Comprehension and Generation</a></h3>
     <p style="margin: 5px 0;">
-          Wei Chow*, Jiachun Pan*, Yongyuan Liang, Mingze Zhou, Liyu Jia, <strong>Saining Zhang</strong>, Xue Song, Siliang Tang, Juncheng Li, Fengda Zhang†, Weijia Wu†, Hanwang Zhang, Tat-Seng Chua
+          Wei Chow, Jiachun Pan, Yongyuan Liang, Mingze Zhou, Liyu Jia, <strong>Saining Zhang</strong>, Xue Song, Siliang Tang, Juncheng Li, Fengda Zhang, Weijia Wu, Hanwang Zhang, Tat-Seng Chua
           <br>
           <b><i>CVPR 2026</i></b><br>
           <a href="https://weichow23.github.io/weave/" style="text-decoration: none;">[Project page]</a>
@@ -228,7 +228,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://sainingzhang.github.io/" style="text-decoration: none;">Gen-NCAP: A Generative Simulator for Corner Case Benchmarking in End-to-End Autonomous Driving</a></h3>
     <p style="margin: 5px 0;">
-          Gen Li, Nan Wang, Yunlong Li, Ziyang Yan, Yinghao Shuai, <strong>Saining Zhang</strong>, Shu Han, Shaocong Xu, Baijun Ye, Lu Zhang, Luan Zhang, Paul Barsch, Zebang Shen, Chaojian Li, Hang Zhao, Ya-Qin Zhang, Hao Zhao†
+          Gen Li, Nan Wang, Yunlong Li, Ziyang Yan, Yinghao Shuai, <strong>Saining Zhang</strong>, Shu Han, Shaocong Xu, Baijun Ye, Lu Zhang, Luan Zhang, Paul Barsch, Zebang Shen, Chaojian Li, Hang Zhao, Ya-Qin Zhang, Hao Zhao
           <br>
           <b><i>IASEAI 2026</i></b><br>
     </p>
@@ -244,7 +244,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://sainingzhang.github.io/project/gaussianart/" style="text-decoration: none;">GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects</a></h3>
     <p style="margin: 5px 0;">
-          Licheng Shen*, <strong>Saining Zhang*‡</strong>, Honghan Li*, Peilin Yang, Zihao Huang, Zongzheng Zhang, Hao Zhao†
+          Licheng Shen*, <strong>Saining Zhang*‡</strong>, Honghan Li*, Peilin Yang, Zihao Huang, Zongzheng Zhang, Hao Zhao
           <br>
           <b><i>3DV 2026</i></b><br>
           <a href="https://sainingzhang.github.io/project/gaussianart/" style="text-decoration: none;">[Project page]</a>
@@ -264,7 +264,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://bigcileng.github.io/bilateral-driving/" style="text-decoration: none;">Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting</a></h3>
     <p style="margin: 5px 0;">
-          Nan Wang, Yuantao Chen, Lixing Xiao, Weiqing Xiao, Bohan Li, Zhaoxi Chen, Chongjie Ye, Shaocong Xu, <strong>Saining Zhang</strong>, Ziyang Yan, Pierre Merriaux, Lei Lei, Tianfan Xue, Hao Zhao†
+          Nan Wang, Yuantao Chen, Lixing Xiao, Weiqing Xiao, Bohan Li, Zhaoxi Chen, Chongjie Ye, Shaocong Xu, <strong>Saining Zhang</strong>, Ziyang Yan, Pierre Merriaux, Lei Lei, Tianfan Xue, Hao Zhao
           <br>
           <b><i>NeurIPS 2025</i></b><br>
           <a href="https://bigcileng.github.io/bilateral-driving/" style="text-decoration: none;">[Project page]</a>
@@ -286,7 +286,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://gs-occ3d.github.io/" style="text-decoration: none;">GS-Occ3D: Scaling Vision-only Occupancy Reconstruction with Gaussian Splatting</a></h3>
     <p style="margin: 5px 0;">
-          <strong>Saining Zhang*</strong>, Baijun Ye*, Minghui Qin*, Moonjun Gong, Shaoting Zhu, Zebang Shen, Luan Zhang, Lu Zhang, Hao Zhao, Hang Zhao†
+          <strong>Saining Zhang*</strong>, Baijun Ye*, Minghui Qin*, Moonjun Gong, Shaoting Zhu, Zebang Shen, Luan Zhang, Lu Zhang, Hao Zhao, Hang Zhao
           <br>
           <b><i>ICCV 2025</i></b><br>
           <a href="https://gs-occ3d.github.io/" style="text-decoration: none;">[Project page]</a>
@@ -305,7 +305,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://github.com/SainingZhang/CRUISE?tab=readme-ov-file#cruise-cooperative-reconstruction-and-editing-in-v2x-scenarios-using-gaussian-splatting" style="text-decoration: none;">CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting</a></h3>
     <p style="margin: 5px 0;">
-          Haoran Xu*, <strong>Saining Zhang*‡</strong>, Peishuo Li*, Baijun Ye, Xiaoxue Chen, Huan-ang Gao, Jv Zheng, Xiaowei Song, Ziqiao Peng, Run Miao, Jinrang Jia, Yifeng Shi, Guangqi Yi, Hang Zhao, Hao Tang, Hongyang Li, Kaicheng Yu, Hao Zhao† 
+          Haoran Xu*, <strong>Saining Zhang*‡</strong>, Peishuo Li*, Baijun Ye, Xiaoxue Chen, Huan-ang Gao, Jv Zheng, Xiaowei Song, Ziqiao Peng, Run Miao, Jinrang Jia, Yifeng Shi, Guangqi Yi, Hang Zhao, Hao Tang, Hongyang Li, Kaicheng Yu, Hao Zhao
           <br>
           <b><i>IROS 2025, <font color="red">Oral</font></i></b><br>
           <a href="https://arxiv.org/pdf/2507.18473" style="text-decoration: none;">[Paper]</a>
@@ -344,7 +344,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://zhuxing0.github.io/projects/SA-Radar/" style="text-decoration: none;">Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding</a></h3>
     <p style="margin: 5px 0;">
-          Weiqing Xiao*, Hao Huang*, Chonghao Zhong*, Yujie Lin, Nan Wang, Xiaoxue Chen, Zhaoxi Chen, <strong>Saining Zhang</strong>, Shuocheng Yang, Pierre Merriaux, Lei Lei, Hao Zhao†
+          Weiqing Xiao, Hao Huang, Chonghao Zhong, Yujie Lin, Nan Wang, Xiaoxue Chen, Zhaoxi Chen, <strong>Saining Zhang</strong>, Shuocheng Yang, Pierre Merriaux, Lei Lei, Hao Zhao
           <br> 
           <b><i>CVPR 2026 Findings</i></b><br>
           <a href="https://zhuxing0.github.io/projects/SA-Radar/" style="text-decoration: none;">[Project page]</a>
@@ -364,7 +364,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://sainingzhang.github.io/project/uc-gs/" style="text-decoration: none;">Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty</a></h3>
     <p style="margin: 5px 0;">
-          <strong>Saining Zhang*</strong>, Baijun Ye*, Xiaoxue Chen, Yuantao Chen, Zongzheng Zhang, Cheng Peng, Yongliang Shi, Hao Zhao†
+          <strong>Saining Zhang*</strong>, Baijun Ye*, Xiaoxue Chen, Yuantao Chen, Zongzheng Zhang, Cheng Peng, Yongliang Shi, Hao Zhao
           <br>
           <b><i>BMVC 2024</i></b><br>
           <a href="https://sainingzhang.github.io/project/uc-gs/" style="text-decoration: none;">[Project page]</a>
@@ -384,7 +384,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://github.com/SainingZhang/DDAMFN" style="text-decoration: none;">A Dual-Direction Attention Mixed Feature Network for Facial Expression Recognition</a></h3>
     <p style="margin: 5px 0;">
-          <strong>Saining Zhang</strong>, Yuhang Zhang, Ye Zhang, Yufei Wang, Zhigang Song†
+          <strong>Saining Zhang</strong>, Yuhang Zhang, Ye Zhang, Yufei Wang, Zhigang Song
           <br>
           <b><i>Electronics, 2023</i></b><br>
           <a href="https://www.mdpi.com/2079-9292/12/17/3595" style="text-decoration: none;">[Paper]</a> 
