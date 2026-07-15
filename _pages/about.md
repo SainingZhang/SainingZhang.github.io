@@ -343,7 +343,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/saradar.png" alt="Controllable Radar Simulation with Waveform Parameter Embedding" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://zhuxing0.github.io/projects/SA-Radar/" style="text-decoration: none;">Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding</a></h3>
+    <h3 style="margin: 0;"><a href="https://zhuxing0.github.io/projects/SA-Radar/" style="text-decoration: none;">Controllable Radar Simulation with Waveform Parameter Embedding</a></h3>
     <p style="margin: 5px 0;">
           Weiqing Xiao, Hao Huang, Chonghao Zhong, Yujie Lin, Nan Wang, Xiaoxue Chen, Zhaoxi Chen, <strong>Saining Zhang</strong>, Shuocheng Yang, Pierre Merriaux, Lei Lei, Hao Zhao
           <br> 
