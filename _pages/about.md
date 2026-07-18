@@ -232,6 +232,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           Gen Li, Nan Wang, Yunlong Li, Ziyang Yan, Yinghao Shuai, <strong>Saining Zhang</strong>, Shu Han, Shaocong Xu, Baijun Ye, Lu Zhang, Luan Zhang, Paul Barsch, Zebang Shen, Chaojian Li, Hang Zhao, Ya-Qin Zhang, Hao Zhao
           <br>
           <b><i>IASEAI 2026</i></b><br>
+          <a href="https://ojs.aaai.org/index.php/IASEAI/article/view/43038" style="text-decoration: none;">[Paper]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
