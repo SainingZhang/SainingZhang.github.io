@@ -116,6 +116,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     <p style="margin: 5px 0;">
           Jiawei Weng*, <strong>Saining Zhang*†</strong>, Zhenxin Diao*, Peishuo Li, Henghaofan Zhang, Junhao Chen, Hao Zhao
           <br>
+          <b><i>SIGGRAPH Asia 2026</i></b><br>
           <a href="https://dennis-jwweng.github.io/pxform/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2605.27351" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2605.27351" style="text-decoration: none;">[Arxiv]</a>
