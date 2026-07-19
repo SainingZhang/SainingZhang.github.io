@@ -15,6 +15,7 @@ Previously, I received my bachelor’s degree from [Beijing Institute of Technol
 
 News
 ======
+🎉 [07.2026] One paper got accepted to [SIGGRAPH Asia 2026](https://asia.siggraph.org/2026/)! <br>
 🎉 [07.2026] One paper got accepted to [ACMMM 2026](https://2026.acmmm.org/)! <br>
 🎉 [06.2026] Three papers got accepted to [ECCV 2026](https://eccv.ecva.net/)! <br>
 🎉 [06.2026] One paper got accepted to [IROS 2026](https://2026.ieee-iros.org/)! <br>
