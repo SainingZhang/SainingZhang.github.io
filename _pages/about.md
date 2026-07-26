@@ -32,7 +32,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/lumera.png" alt="Engine-Native Editable 3D World Reconstruction with Objects and Lighting" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="../images/lumera.jpg" alt="Engine-Native Editable 3D World Reconstruction with Objects and Lighting" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://haidilao0328.github.io/Lumera/" style="text-decoration: none;">Engine-Native Editable 3D World Reconstruction with Objects and Lighting</a></h3>
     <p style="margin: 5px 0;">
