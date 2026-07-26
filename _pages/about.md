@@ -32,6 +32,44 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/lumera.png" alt="Engine-Native Editable 3D World Reconstruction with Objects and Lighting" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://haidilao0328.github.io/Lumera/" style="text-decoration: none;">Engine-Native Editable 3D World Reconstruction with Objects and Lighting</a></h3>
+    <p style="margin: 5px 0;">
+          Junhao Chen,  Xinghao Chen,  Henghaofan Zhang,  Zihao Qiao,  <strong>Saining Zhang</strong>,  Yongzhi Li,  Ruqi Huang,  Sisi Li,  Yimin Sheng,  Jianyi Zhu,  Hao Zhao
+          <br>
+          <a href="https://haidilao0328.github.io/Lumera/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2607.20889" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2607.20889" style="text-decoration: none;">[Arxiv]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/ovow.png" alt="One Video, One World: Turning Monocular Video into Physical 4D Scenes" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://onevideooneworld.github.io/" style="text-decoration: none;">One Video, One World: Turning Monocular Video into Physical 4D Scenes</a></h3>
+    <p style="margin: 5px 0;">
+          Junhao Chen, Boran Zhang, Mingjin Chen, Henghaofan Zhang, <strong>Saining Zhang</strong>, Congcong Zhu, Hao Zhao, Ruqi Huang, Zhihao Li, and Yufei Wang
+          <br>
+          <b><i>ECCV 2026</i></b><br>
+          <a href="https://onevideooneworld.github.io/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2606.31388" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2606.31388" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://github.com/yisuanwang/OVOW" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/ovow.png" alt="One Video, One World: Turning Monocular Video into Physical 4D Scenes" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://onevideooneworld.github.io/" style="text-decoration: none;">One Video, One World: Turning Monocular Video into Physical 4D Scenes</a></h3>
