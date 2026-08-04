@@ -50,6 +50,24 @@ World-Grounded Conditioning from Animated Mesh</a></h3>
   </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/bunraku.png" alt="Bunraku: Turning a Single Illustration into an Editable Live2D Character" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://bunraku-live2d.github.io/" style="text-decoration: none;">Bunraku: Turning a Single Illustration into an Editable Live2D Character</a></h3>
+    <p style="margin: 5px 0;">
+          Junhao Chen, Jingjia Mao, Dayong Li, Chenghai Li, <strong>Saining Zhang</strong>, Zhihao Li, Hao Zhao, Yufei Wang, Ruqi Huang
+          <br>
+          <a href="https://bunraku-live2d.github.io/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2607.20889" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2607.20889" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://github.com/SparcAI-Inc/Bunraku" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/lumera.jpg" alt="Engine-Native Editable 3D World Reconstruction with Objects and Lighting" style="width: 350px; height: auto; margin-right: 20px;">
@@ -60,7 +78,8 @@ World-Grounded Conditioning from Animated Mesh</a></h3>
           <br>
           <a href="https://haidilao0328.github.io/Lumera/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2607.20889" style="text-decoration: none;">[Paper]</a>
-          <a href="https://arxiv.org/abs/2607.20889" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://arxiv.org/abs/2607.20889" style="text-decoration: none;">[Arxiv]</a>  
+          <a href="https://github.com/yisuanwang/OVOW" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
