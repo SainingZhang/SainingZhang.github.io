@@ -32,9 +32,11 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/bunraku.png" alt="Bunraku: Turning a Single Illustration into an Editable Live2D Character" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="../images/DAR.png" alt="Video Models as Native 4D Renderers:
+World-Grounded Conditioning from Animated Mesh" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://bunraku-live2d.github.io/" style="text-decoration: none;">Bunraku: Turning a Single Illustration into an Editable Live2D Character</a></h3>
+    <h3 style="margin: 0;"><a href="https://bunraku-live2d.github.io/" style="text-decoration: none;">Video Models as Native 4D Renderers:
+World-Grounded Conditioning from Animated Mesh</a></h3>
     <p style="margin: 5px 0;">
           Junhao Chen, Jingjia Mao, Dayong Li, Chenghai Li, <strong>Saining Zhang</strong>, Zhihao Li, Hao Zhao, Yufei Wang, Ruqi Huang
           <br>
