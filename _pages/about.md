@@ -35,14 +35,13 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <img src="../images/DAR.png" alt="Video Models as Native 4D Renderers:
 World-Grounded Conditioning from Animated Mesh" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://bunraku-live2d.github.io/" style="text-decoration: none;">Video Models as Native 4D Renderers:
+    <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2608.00094" style="text-decoration: none;">Video Models as Native 4D Renderers:
 World-Grounded Conditioning from Animated Mesh</a></h3>
     <p style="margin: 5px 0;">
           Junhao Chen, Jingjia Mao, Dayong Li, Chenghai Li, <strong>Saining Zhang</strong>, Zhihao Li, Hao Zhao, Yufei Wang, Ruqi Huang
           <br>
-          <a href="https://bunraku-live2d.github.io/" style="text-decoration: none;">[Project page]</a>
-          <a href="https://arxiv.org/pdf/2607.27348" style="text-decoration: none;">[Paper]</a>
-          <a href="https://arxiv.org/abs/2607.27348" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://arxiv.org/pdf/2608.00094" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2608.00094" style="text-decoration: none;">[Arxiv]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
