@@ -58,8 +58,8 @@ World-Grounded Conditioning from Animated Mesh</a></h3>
           Junhao Chen, Jingjia Mao, Dayong Li, Chenghai Li, <strong>Saining Zhang</strong>, Zhihao Li, Hao Zhao, Yufei Wang, Ruqi Huang
           <br>
           <a href="https://bunraku-live2d.github.io/" style="text-decoration: none;">[Project page]</a>
-          <a href="https://arxiv.org/pdf/2607.20889" style="text-decoration: none;">[Paper]</a>
-          <a href="https://arxiv.org/abs/2607.20889" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://arxiv.org/pdf/2607.27348" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2607.27348" style="text-decoration: none;">[Arxiv]</a>
           <a href="https://github.com/SparcAI-Inc/Bunraku" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
