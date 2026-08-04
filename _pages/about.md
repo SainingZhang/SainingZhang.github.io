@@ -38,7 +38,7 @@ World-Grounded Conditioning from Animated Mesh" style="width: 350px; height: aut
     <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2608.00094" style="text-decoration: none;">Video Models as Native 4D Renderers:
 World-Grounded Conditioning from Animated Mesh</a></h3>
     <p style="margin: 5px 0;">
-          Junhao Chen, Jingjia Mao, Dayong Li, Chenghai Li, <strong>Saining Zhang</strong>, Zhihao Li, Hao Zhao, Yufei Wang, Ruqi Huang
+          Junhao Chen, Mingjin Chen, Henghaofan Zhang, Minglin Chen, Liaoyuan Fan, Boran Zhang, <strong>Saining Zhang</strong>, Mingze Sun, Hao Zhao, Ruqi Huang, Zhihao Li, Yufei Li
           <br>
           <a href="https://arxiv.org/pdf/2608.00094" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2608.00094" style="text-decoration: none;">[Arxiv]</a>
