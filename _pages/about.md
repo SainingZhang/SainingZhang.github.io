@@ -149,7 +149,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/DAR.png" alt="Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="../images/agogic.png" alt="Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2608.00094" style="text-decoration: none;">Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation</a></h3>
     <p style="margin: 5px 0;">
