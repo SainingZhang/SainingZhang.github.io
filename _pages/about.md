@@ -448,7 +448,7 @@ World-Grounded Conditioning from Animated Mesh</a></h3>
     <p style="margin: 5px 0;">
           <strong>Selftok Team</strong> (Saining Zhang: Core contributor)
           <br>
-          <b><i>Technical report</i></b>, an extended version of <a href="https://ddt-llama.github.io/">DDT-LLaMA</a><br> 
+          <b><i>Technical report</i></b><br> 
           <a href="https://selftok-team.github.io/report/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2505.07538" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2505.07538" style="text-decoration: none;">[Arxiv]</a>
