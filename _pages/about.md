@@ -149,6 +149,26 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/te.png" alt="Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://zzongzheng0918.github.io/TE-Aware-E2E-AD/" style="text-decoration: none;">Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving</a></h3>
+    <p style="margin: 5px 0;">
+          Zongzheng Zhang, Jijun Wang, <strong>Saining Zhang</strong>, Shuo Wang, Yiru Wang, Hai Yang, Yang Chen, Yuwen Heng, Hao Sun, Anqing Jiang, Hao Zhao
+          <br>
+          <b><i>ECCV 2026</i></b><br>
+          <a href="https://zzongzheng0918.github.io/TE-Aware-E2E-AD/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2608.18035" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2608.18035" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://github.com/ZZongzheng0918/TE-Aware-E2E-AD" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/agogic.png" alt="Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2608.00094" style="text-decoration: none;">Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation</a></h3>
