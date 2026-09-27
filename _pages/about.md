@@ -15,6 +15,7 @@ Previously, I received my bachelor’s degree from [Beijing Institute of Technol
 
 News
 ======
+🎉 [09.2026] One paper got accepted to [NeurIPS 2026](https://neurips.cc/)! <br>
 🎉 [07.2026] One paper got accepted to [SIGGRAPH Asia 2026](https://asia.siggraph.org/2026/)! <br>
 🎉 [07.2026] One paper got accepted to [ACMMM 2026](https://2026.acmmm.org/)! <br>
 🎉 [06.2026] Three papers got accepted to [ECCV 2026](https://eccv.ecva.net/)! <br>
@@ -23,7 +24,7 @@ News
 🎉 [01.2026] Two papers got accepted to [ICRA 2026](https://2026.ieee-icra.org/)! <br>
 🎉 [01.2026] One paper got accepted to [ICLR 2026](https://iclr.cc/)! <br>
 🎉 [11.2025] One paper got accepted to [3DV 2026](https://3dvconf.github.io/2026/)! <br>
-🎉 [09.2025] One paper got accepted to [NeurIPS 2025](https://neurips.cc/)! Congrats to Nan! <br>
+🎉 [09.2025] One paper got accepted to [NeurIPS 2025](https://neurips.cc/)! <br>
 🎉 [06.2025] One paper got accepted to [ICCV 2025](https://iccv.thecvf.com/)!<br>
 🎉 [06.2025] One paper got accepted to [IROS 2025](https://www.iros25.org/)!<br>
 🎉 [04.2025] Our new technical report, [Selftok](https://selftok-team.github.io/report/), is now available. Congrats to all team members!<br>
@@ -311,6 +312,7 @@ World-Grounded Conditioning from Animated Mesh</a></h3>
     <p style="margin: 5px 0;">
           Liyu Jia, Fengda Zhang, Jiachun Pan, Kesen Zhao, <strong>Saining Zhang</strong>, Wang Lin, Weijia Wu, Yue Liao, Aojun Zhou, Hanwang Zhang
           <br>
+          <b><i>NeurIPS 2026</i></b><br>
           <a href="https://arxiv.org/pdf/2606.04457" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2606.04457" style="text-decoration: none;">[Arxiv]</a>
     </p>
