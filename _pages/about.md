@@ -16,7 +16,7 @@ Previously, I received my bachelor’s degree from [Beijing Institute of Technol
 News
 ======
 🎉 [10.2026] One paper got accepted to [TPAMI](https://www.computer.org/csdl/journal/tp)! <br>
-🚀 [10.2026] Our new work, [PartBloom](https://brain-labbb.github.io/partbloom-page/), is now available! Come check it out and give it a try!
+🚀 [10.2026] Our new work, [PartBloom](https://brain-labbb.github.io/partbloom-page/), is now available! Come check it out and give it a try! <br>
 🎉 [09.2026] One paper got accepted to [NeurIPS 2026](https://neurips.cc/)! <br>
 🎉 [07.2026] One paper got accepted to [SIGGRAPH Asia 2026](https://asia.siggraph.org/2026/)! <br>
 🎉 [07.2026] One paper got accepted to [ACMMM 2026](https://2026.acmmm.org/)! <br>
