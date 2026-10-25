@@ -15,6 +15,8 @@ Previously, I received my bachelor’s degree from [Beijing Institute of Technol
 
 News
 ======
+🎉 [10.2026] One paper got accepted to [TPAMI](https://www.computer.org/csdl/journal/tp)! <br>
+🚀 [10.2026] Our new work, [PartBloom](https://brain-labbb.github.io/partbloom-page/), is now available! Come check it out and give it a try!
 🎉 [09.2026] One paper got accepted to [NeurIPS 2026](https://neurips.cc/)! <br>
 🎉 [07.2026] One paper got accepted to [SIGGRAPH Asia 2026](https://asia.siggraph.org/2026/)! <br>
 🎉 [07.2026] One paper got accepted to [ACMMM 2026](https://2026.acmmm.org/)! <br>
@@ -352,6 +354,7 @@ World-Grounded Conditioning from Animated Mesh</a></h3>
     <p style="margin: 5px 0;">
           Zihao Huang, Tianqi Liu, Zhaoxi Chen, Shaocong Xu, <strong>Saining Zhang</strong>, Lixing Xiao, Zhiguo Cao, Wei Li, Hao Zhao, Ziwei Liu
           <br>
+          <b><i>TPAMI</i></b><br>
           <a href="https://arthoi.github.io/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2603.04338" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2603.04338" style="text-decoration: none;">[Arxiv]</a>
