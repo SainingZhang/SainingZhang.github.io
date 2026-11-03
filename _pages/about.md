@@ -53,7 +53,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://made-gpt.github.io/DynaSolver-ProjectPage/" style="text-decoration: none;">DynaSolver: A Neural Operator for Autoregressive 4D Flow Prediction with Dynamic Boundaries</a></h3>
     <p style="margin: 5px 0;">
-          Rui Qian*, Shibo Dai*, Mengjun Lin*, Yuk-Kit Hou, <strong>Saining Zhang‡</strong>, Bohan Li, Junhao Chen, Hao Zhao, Chaojian Li†
+          Rui Qian, Shibo Dai, Mengjun Lin, Yuk-Kit Hou, <strong>Saining Zhang‡</strong>, Bohan Li, Junhao Chen, Hao Zhao, Chaojian Li
           <br>
           <a href="https://made-gpt.github.io/DynaSolver-ProjectPage/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2611.03595" style="text-decoration: none;">[Paper]</a>
