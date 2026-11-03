@@ -37,7 +37,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/partbloom.gif" alt="PartBloom: Structure First, Details Bloom" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://brain-labbb.github.io/partbloom-page/" style="text-decoration: none;">PartBloom: Structure First. Details Bloom.</a></h3>
+    <h3 style="margin: 0;"><a href="https://brain-labbb.github.io/partbloom-page/" style="text-decoration: none;">PartBloom: Structure First, Details Bloom</a></h3>
     <p style="margin: 5px 0;">
           <a href="https://brain-labbb.github.io/partbloom-page/" style="text-decoration: none;">[Project page]</a>
           <a href="https://github.com/brain-labbb/PartBloom" style="text-decoration: none;">[Code]</a>
