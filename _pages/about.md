@@ -49,6 +49,21 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/dynasolver.gif" alt="DynaSolver: A Neural Operator for Autoregressive 4D Flow Prediction with Dynamic Boundaries" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://made-gpt.github.io/DynaSolver-ProjectPage/" style="text-decoration: none;">DynaSolver: A Neural Operator for Autoregressive 4D Flow Prediction with Dynamic Boundaries</a></h3>
+    <p style="margin: 5px 0;">
+          Rui Qian*, Shibo Dai*, Mengjun Lin*, Yuk-Kit Hou, <strong>Saining Zhang‡</strong>, Bohan Li, Junhao Chen, Hao Zhao, Chaojian Li†
+          <br>
+          <a href="https://made-gpt.github.io/DynaSolver-ProjectPage/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2611.03595" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2611.03595" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://github.com/Made-Gpt/DynaSolver" style="text-decoration: none;">[Code]</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/partbloom.gif" alt="PartBloom: Structure First, Details Bloom" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://brain-labbb.github.io/partbloom-page/" style="text-decoration: none;">PartBloom: Structure First, Details Bloom</a></h3>
