@@ -39,7 +39,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://brain-labbb.github.io/RFW_A_web/" style="text-decoration: none;">RFW-A: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories</a></h3>
     <p style="margin: 5px 0;">
-          Yuanbo Lyu*, Changjian Pan*, <strong>Saining Zhang*‡</strong>, Yi Yang*, Peishuo Li, Zhiheng Li, Jialu Liu, Junhao Chen, Jiawei Weng, Yupeng Gao, Weiqing Xiao, Wenyi Li, Jiarui Guo, Rui Zhang, Jingrun Du, Weiyi Lin, Zenan Meng†, Hu Wei†, Lin Qu, Zongzheng Zhang, Hao Zhao, Chaojian Li†
+          Yuanbo Lyu*, Changjian Pan*, <strong>Saining Zhang*‡</strong>, Yi Yang*, Peishuo Li, Zhiheng Li, Jialu Liu, Junhao Chen, Jiawei Weng, Yupeng Gao, Weiqing Xiao, Wenyi Li, Jiarui Guo, Rui Zhang, Jingrun Du, Weiyi Lin, Zenan Meng, Hu Wei, Lin Qu, Zongzheng Zhang, Hao Zhao, Chaojian Li
           <br>
           <a href="https://brain-labbb.github.io/RFW_A_web/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2610.40333" style="text-decoration: none;">[Paper]</a>
