@@ -35,6 +35,20 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/rfw-a-indoor.gif" alt="RFW-A: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://brain-labbb.github.io/RFW_A_web/" style="text-decoration: none;">RFW-A: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories</a></h3>
+    <p style="margin: 5px 0;">
+          Yuanbo Lyu*, Changjian Pan*, <strong>Saining Zhang*‡</strong>, Yi Yang*, Peishuo Li, Zhiheng Li, Jialu Liu, Junhao Chen, Jiawei Weng, Yupeng Gao, Weiqing Xiao, Wenyi Li, Jiarui Guo, Rui Zhang, Jingrun Du, Weiyi Lin, Zenan Meng†, Hu Wei†, Lin Qu, Zongzheng Zhang, Hao Zhao, Chaojian Li†
+          <br>
+          <a href="https://brain-labbb.github.io/RFW_A_web/" style="text-decoration: none;">[Project page]</a>
+          <a href="https://arxiv.org/pdf/2610.40333" style="text-decoration: none;">[Paper]</a>
+          <a href="https://arxiv.org/abs/2610.40333" style="text-decoration: none;">[Arxiv]</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/partbloom.gif" alt="PartBloom: Structure First, Details Bloom" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://brain-labbb.github.io/partbloom-page/" style="text-decoration: none;">PartBloom: Structure First, Details Bloom</a></h3>
