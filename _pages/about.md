@@ -13,6 +13,8 @@ My research interest includes ~~3D Generation，World Models, and MLLM~~ Agent f
 
 Previously, I received my bachelor’s degree from [Beijing Institute of Technology](https://cs.bit.edu.cn/) in 2024, where I was supervised by Prof. [Hao Zhao](https://sites.google.com/view/fromandto) from the Institute for AI Industry Research (AIR), [Tsinghua University](https://air.tsinghua.edu.cn/en/).
 
+My collaborating PIs and I are always looking for self-motivated researchers who want to pursue meaningful research beyond publishing papers. We offer ample computing resources, generous LLM token budgets, and paid research opportunities. If you share this mindset and would like to work with us, please feel free to email me at [saining002@e.ntu.edu.sg](mailto:saining002@e.ntu.edu.sg).
+
 News
 ======
 🎉 [10.2026] One paper got accepted to [TPAMI](https://www.computer.org/csdl/journal/tp)! <br>
