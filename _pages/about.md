@@ -101,7 +101,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="../files/gennav.pdf" style="text-decoration: none;">Gen-NAV: Generative Simulation with Gaussian Photorealistic Rendering for Evolving Environments</a></h3>
     <p style="margin: 5px 0;">
-      Yinghao Shuai*, <strong>Saining Zhang*†</strong>, Zijian Jiang, Yuantao Chen, Hao Zhao†
+      Yinghao Shuai*, <strong>Saining Zhang*†</strong>, Zijian Jiang, Yuantao Chen, Hao Zhao
       <br>
       <b><i>IROS 2026</i></b><br>
       <a href="../files/gennav.pdf" style="text-decoration: none;">[Paper]</a>
