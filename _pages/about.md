@@ -579,8 +579,8 @@ World-Grounded Conditioning from Animated Mesh</a></h3>
 
 Awards
 ======
-* \[2026\] **1st place in Trajectory Accuracy and 2nd place in Physical Adherence**, WorldArena 2.0, Track 1 (September 2026), Xirra team.
-* \[2026\] **1st place**, TriWorldBench world model benchmark (October 2026), Xirra team.
+* \[2026\] **1st place**, TriWorldBench world model benchmark
+* \[2026\] **1st place in Trajectory Accuracy and 2nd place in Physical Adherence**, WorldArena 2.0, Track 1
 * \[2024\] **Best Undergraduate Dissertation Award, Beijing Education Commission (top 0.9% in 130,000 students)**
 * \[2024\] **Winner Award**, NTIRE 2024 (CVPR 2024 workshop) Stereo Image Super-Resolution
 Challenge Track 1 & Track 2
