@@ -579,14 +579,19 @@ World-Grounded Conditioning from Animated Mesh</a></h3>
 
 Awards
 ======
+* \[2026\] **1st place in Trajectory Accuracy and 2nd place in Physical Adherence**, WorldArena 2.0, Track 1 (September 2026), Xirra team.
+* \[2026\] **1st place**, TriWorldBench world model benchmark (October 2026), Xirra team.
 * \[2024\] **Best Undergraduate Dissertation Award, Beijing Education Commission (top 0.9% in 130,000 students)**
 * \[2024\] **Winner Award**, NTIRE 2024 (CVPR 2024 workshop) Stereo Image Super-Resolution
 Challenge Track 1 & Track 2
 * \[2021\] **Second place**, 2021 iFLYTEK A.I. Developer Competition Facial Expression Recognition
 Challenge 
 
-Internships
+Experiences
 ======
+* 2026.03 - 2026.07, Algorithm Intern, Synapx.
+* 2026.02 - Present, THU–Alibaba Joint Research Project, Alibaba Group, Hangzhou, China.
+* 2023.10 - 2026.08, Research Assistant, Institute for AI Industry Research (AIR), Tsinghua University, China.
 * 2024.09 - now, Singapore Graphics & Image Intelligence Lab, Huawei, Singapore.
 * 2024.09 - 2025-05, D-Robotics, Horizon, China.
 * 2022.06 - 2022.09, Vision Computing Lab, Samsung, China.
