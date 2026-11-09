@@ -589,12 +589,12 @@ Challenge
 
 Experiences
 ======
-* 2026.03 - 2026.07, Algorithm Intern, Synapx, Beijing, China.
-* 2026.02 - Present, Project Leader, THU–Alibaba Joint Research Project, Alibaba Group, Hangzhou, China.
+* 2026.03 - 2026.07, Algorithm Intern, Synapx, China.
+* 2026.02 - Present, Project Leader, THU–Alibaba Joint Research Project, Alibaba Group, China.
 * 2024.09 - Present, Assistant Engineer, Multimodal Model Lab, Huawei, Singapore.
-* 2024.09 - 2025.05, Cloud Platform Intern, D-Robotics, Horizon, Beijing, China.
-* 2023.10 - Present, Research Assistant, Institute for AI Industry Research (AIR), Tsinghua University, Beijing, China.
-* 2022.06 - 2022.09, Algorithm Intern, Vision Computing Lab, Samsung, Beijing, China.
+* 2024.09 - 2025.05, Cloud Platform Intern, D-Robotics, Horizon, China.
+* 2023.10 - Present, Research Assistant, Institute for AI Industry Research (AIR), Tsinghua University, China.
+* 2022.06 - 2022.09, Algorithm Intern, Vision Computing Lab, Samsung, China.
 
 Service
 ======
