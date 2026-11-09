@@ -214,6 +214,19 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="../images/unigarment.gif" alt="UniGarment: Topology-Guided Texture Normalization for Simulation-Ready Garment Digitization" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://dl.acm.org/doi/abs/10.1145/3767308.3835607" style="text-decoration: none;">UniGarment: Topology-Guided Texture Normalization for Simulation-Ready Garment Digitization</a></h3>
+    <p style="margin: 5px 0;">
+      Junhao Chen, Jing Kong, Mingjin Chen, Boran Zhang, <strong>Saining Zhang</strong>, Hao Zhao, Ruqi Huang, Fei Ma, Qi Tian
+      <br>
+      <b><i>ACM MM 2026, Oral</i></b><br>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3767308.3835607" style="text-decoration: none;">[Paper]</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/te.png" alt="Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://zzongzheng0918.github.io/TE-Aware-E2E-AD/" style="text-decoration: none;">Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving</a></h3>
