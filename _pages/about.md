@@ -234,7 +234,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
     <p style="margin: 5px 0;">
       Junhao Chen, Jing Kong, Mingjin Chen, Boran Zhang, <strong>Saining Zhang</strong>, Hao Zhao, Ruqi Huang, Fei Ma, Qi Tian
       <br>
-      <b><i>ACM MM 2026, Oral</i></b><br>
+      <b><i>ACM MM 2026,  <font color="red">Oral</font></i></b><br>
       <a href="https://dl.acm.org/doi/abs/10.1145/3767308.3835607" style="text-decoration: none;">[Paper]</a>
     </p>
   </div>
