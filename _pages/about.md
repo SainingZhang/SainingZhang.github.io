@@ -61,6 +61,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
           <a href="https://brain-labbb.github.io/RFW_A_web/" style="text-decoration: none;">[Project page]</a>
           <a href="https://arxiv.org/pdf/2610.40333" style="text-decoration: none;">[Paper]</a>
           <a href="https://arxiv.org/abs/2610.40333" style="text-decoration: none;">[Arxiv]</a>
+          <a href="https://github.com/RoboFlywheel-com/RoboFlywheel-Articulation-release" style="text-decoration: none;">[Code]</a>
     </p>
   </div>
 </div>
