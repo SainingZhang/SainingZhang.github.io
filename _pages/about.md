@@ -41,7 +41,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://roboflywheel-com.github.io/RoboFlywheel-Soft/" style="text-decoration: none;">RFW-S: Everyday Deformable Objects with Independent Simulation Verification</a></h3>
     <p style="margin: 5px 0;">
-      Jiarui Guo*, <strong>Saining Zhang*‡</strong>, Jiaying Wan, Jiawei Weng, Junhao Chen, Rui Zhang, Yuanbo Lyu, Zhiheng Lee, Peishuo Li, Jingrun Du, Weiqing Xiao, Weiyi Lin, Zenan Meng†, Hu Wei†, Lin Qu, Zongzheng Zhang, Hao Zhao, Chaojian Li†
+      Jiarui Guo*, <strong>Saining Zhang*‡</strong>, Jiaying Wan, Jiawei Weng, Junhao Chen, Rui Zhang, Yuanbo Lyu, Zhiheng Lee, Peishuo Li, Jingrun Du, Weiqing Xiao, Weiyi Lin, Zenan Meng†, Hu Wei†, Lin Qu, Zongzheng Zhang, Hao Zhao, Chaojian Li
       <br>
       <a href="https://roboflywheel-com.github.io/RoboFlywheel-Soft/" style="text-decoration: none;">[Project page]</a>
       <a href="https://arxiv.org/pdf/2611.23056" style="text-decoration: none;">[Paper]</a>
