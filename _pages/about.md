@@ -39,13 +39,14 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="../images/rfw-s.gif" alt="RFW-S: Everyday Deformable Objects with Independent Simulation Verification" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://sjijs.github.io/RFW-S_website/" style="text-decoration: none;">RFW-S: Everyday Deformable Objects with Independent Simulation Verification</a></h3>
+    <h3 style="margin: 0;"><a href="https://roboflywheel-com.github.io/RoboFlywheel-Soft/" style="text-decoration: none;">RFW-S: Everyday Deformable Objects with Independent Simulation Verification</a></h3>
     <p style="margin: 5px 0;">
       Jiarui Guo*, <strong>Saining Zhang*‡</strong>, Jiaying Wan, Jiawei Weng, Junhao Chen, Rui Zhang, Yuanbo Lyu, Zhiheng Lee, Peishuo Li, Jingrun Du, Weiqing Xiao, Weiyi Lin, Zenan Meng†, Hu Wei†, Lin Qu, Zongzheng Zhang, Hao Zhao, Chaojian Li†
       <br>
-      <a href="https://sjijs.github.io/RFW-S_website/" style="text-decoration: none;">[Project page]</a>
+      <a href="https://roboflywheel-com.github.io/RoboFlywheel-Soft/" style="text-decoration: none;">[Project page]</a>
       <a href="https://arxiv.org/pdf/2611.23056" style="text-decoration: none;">[Paper]</a>
       <a href="https://arxiv.org/abs/2611.23056" style="text-decoration: none;">[Arxiv]</a>
+      <a href="https://github.com/RoboFlywheel-com/RoboFlywheel-Soft" style="text-decoration: none;">[Code]</a>
     </p>
   </div>
 </div>
