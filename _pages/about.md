@@ -41,8 +41,9 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
   <div>
     <h3 style="margin: 0;"><a href="https://roboflywheel-com.github.io/RoboFlywheel-World/" style="text-decoration: none;">RFW-W: Scaling Physical Asset Universes for Generative Embodied Simulation</a></h3>
     <p style="margin: 5px 0;">
-      Jiawei Weng*, Rui Zhang*, <strong>Saining Zhang*‡</strong>, Changjian Pan*, Yuanbo Lyu*, Jiarui Guo*, Yongzhi Li, Guolin Liu, Jialu Liu, Jiankun Wang, Yi Yang, Peishuo Li, Zhiheng Li, Jiaying Wan, Junhao Chen, Weiqing Xiao, Jingrun Du, Wenyi Li, Weiyi Lin, Zenan Meng†, Hu Wei†, Lin Qu, Zongzheng Zhang, Hao Zhao, Chaojian Li†
-      <br><small>* Core contributors for RFW-W</small><br>
+      <strong>RFW Team</strong> (Saining Zhang: Project leader)
+      <br>
+      <b><i>Technical report</i></b><br>
       <a href="https://roboflywheel-com.github.io/RoboFlywheel-World/" style="text-decoration: none;">[Project page]</a>
       <a href="https://arxiv.org/pdf/2611.33013" style="text-decoration: none;">[Paper]</a>
       <a href="https://arxiv.org/abs/2611.33013" style="text-decoration: none;">[Arxiv]</a>
