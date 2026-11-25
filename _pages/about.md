@@ -37,7 +37,7 @@ Publications \[[Google Scholar](https://scholar.google.com/citations?user=P4efBM
 ======
 \* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="https://raw.githubusercontent.com/RoboFlywheel-com/RoboFlywheel-World/main/assets/RFW_W_teaser_title_v2.png" alt="RFW-W project teaser" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="../images/rfw-w.gif" alt="RFW-W project teaser" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://roboflywheel-com.github.io/RoboFlywheel-World/" style="text-decoration: none;">RFW-W: Scaling Physical Asset Universes for Generative Embodied Simulation</a></h3>
     <p style="margin: 5px 0;">
